@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "inputFile": "input/20260528041451_SC_PLAYER_SC_PLAYER_QWERT_-_Kopyaaaaaa_m3u_20260502__20260514_055241.m3u",
+    "inputBytes": 92181,
+    "totalLines": 829,
+    "extinfLines": 414,
+    "streamLines": 414,
+    "logoLines": 312,
+    "noLogoExtinfLines": 102,
+    "uniqueLogoUrls": 292,
+    "items": 312,
+    "downloaded": 0,
+    "downloadFailed": 0,
+    "skippedDownload": 292,
+    "startedAt": "2026-05-28T04:14:59.944909Z",
+    "outputBytes": 71274,
+    "savedBytesInM3U": 20907,
+    "finishedAt": "2026-05-28T04:14:59.972763Z"
+  },
+  "downloadResultsSample": [],
+  "failedDownloadsSample": []
+}

@@ -1,0 +1,3149 @@
+{
+  "schema": "logo-manager-list-logo-source-v1",
+  "sourceM3U": "20260528041451_SC_PLAYER_SC_PLAYER_QWERT_-_Kopyaaaaaa_m3u_20260502__20260514_055241.m3u",
+  "createdAt": "2026-05-28T04:14:59.944909Z",
+  "updatedAt": "2026-05-28T04:14:59.972763Z",
+  "xLogoSource": "liste-logolar.json",
+  "logoFolder": "liste-logo",
+  "outputM3U": "output/optimized.m3u",
+  "stats": {
+    "inputFile": "input/20260528041451_SC_PLAYER_SC_PLAYER_QWERT_-_Kopyaaaaaa_m3u_20260502__20260514_055241.m3u",
+    "inputBytes": 92181,
+    "totalLines": 829,
+    "extinfLines": 414,
+    "streamLines": 414,
+    "logoLines": 312,
+    "noLogoExtinfLines": 102,
+    "uniqueLogoUrls": 292,
+    "items": 312,
+    "downloaded": 0,
+    "downloadFailed": 0,
+    "skippedDownload": 292,
+    "startedAt": "2026-05-28T04:14:59.944909Z",
+    "outputBytes": 71274,
+    "savedBytesInM3U": 20907,
+    "finishedAt": "2026-05-28T04:14:59.972763Z"
+  },
+  "items": {
+    "1TVTR": {
+      "logoId": "1TVTR",
+      "title": "1TVTR",
+      "tvgName": "1TVTR",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0bbe8ea1-7fa3-402d-8e96-1836077458d7.png",
+      "localFile": "liste-logo/733064af2646.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "24_TV": {
+      "logoId": "24_TV",
+      "title": "24 TV",
+      "tvgName": "24 TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d8e81779-a0c6-4202-8f47-5315d34e395c.png",
+      "localFile": "liste-logo/2dc58f53eca4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "4_TURK_POP": {
+      "logoId": "4_TURK_POP",
+      "title": "4 Türk Pop",
+      "tvgName": "4 Türk Pop",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/447891c4-97c1-4692-99be-7adc74dbfe58.png",
+      "localFile": "liste-logo/5c321402d217.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "61_SAAT_TV": {
+      "logoId": "61_SAAT_TV",
+      "title": "61 Saat TV",
+      "tvgName": "61 Saat TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b45d3fb8-b3ee-484f-9c1a-a5304e0fa13f.png",
+      "localFile": "liste-logo/f219829c1a5a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ADA_TV": {
+      "logoId": "ADA_TV",
+      "title": "ADA TV",
+      "tvgName": "ADA TV",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8d64858c-5307-409d-9c62-dcc98589c043.png",
+      "localFile": "liste-logo/1229b9d0a8fc.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AHAD_TV": {
+      "logoId": "AHAD_TV",
+      "title": "Ahad TV",
+      "tvgName": "Ahad TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3ad1c386-1f55-4d2a-b94e-a9c17dd01912.png",
+      "localFile": "liste-logo/6a0d98920678.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AHI_TV": {
+      "logoId": "AHI_TV",
+      "title": "Ahi TV",
+      "tvgName": "Ahi TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e6ed029b-4bdb-4e95-acde-24e0b88c83b8.png",
+      "localFile": "liste-logo/82aed40cf6ef.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AKKON_TV": {
+      "logoId": "AKKON_TV",
+      "title": "Akkon TV",
+      "tvgName": "Akkon TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4f326473-7ee6-40a1-b848-4512dc28b5d6.png",
+      "localFile": "liste-logo/7c1d6daa7b70.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AKSU_TV": {
+      "logoId": "AKSU_TV",
+      "title": "Aksu TV",
+      "tvgName": "Aksu TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/bfd39867-2330-4a11-9a0c-b30ff06cee12.png",
+      "localFile": "liste-logo/6c0df95136ac.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AKTUEL_HABER_35_TV": {
+      "logoId": "AKTUEL_HABER_35_TV",
+      "title": "Aktüel Haber 35 Tv",
+      "tvgName": "Aktüel Haber 35 Tv",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e44a3f66-d9c0-408b-94d5-344ad3a4fe01.png",
+      "localFile": "liste-logo/d49f590432d0.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AKTUEL_TV": {
+      "logoId": "AKTUEL_TV",
+      "title": "Aktüel TV",
+      "tvgName": "Aktüel TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0ac415bb-a1c6-494b-81d4-f92f3161c94f.png",
+      "localFile": "liste-logo/8df27e1a9e70.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ALANYA_POSTA_TV": {
+      "logoId": "ALANYA_POSTA_TV",
+      "title": "Alanya Posta TV",
+      "tvgName": "Alanya Posta TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e857e4f4-f4ce-4566-9b42-ef59637064d0.png",
+      "localFile": "liste-logo/80f9ff4b4181.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ALLO_CINE": {
+      "logoId": "ALLO_CINE",
+      "title": "ALLO CINÉ",
+      "tvgName": "ALLO CINÉ",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/2SHJGsj/allocine.png",
+      "localFile": "liste-logo/728b848b3e0c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ALMANYA_TV": {
+      "logoId": "ALMANYA_TV",
+      "title": "Almanya TV",
+      "tvgName": "Almanya TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f87fd098-7e38-4fe5-82db-0bd892ace7ba.png",
+      "localFile": "liste-logo/fe5dc508c5f9.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ALTAS_TV": {
+      "logoId": "ALTAS_TV",
+      "title": "Altaş TV",
+      "tvgName": "Altaş TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8e6f44ce-3d5e-4762-9287-f80d41399dfa.png",
+      "localFile": "liste-logo/ece2196822d6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ANADOLUM_TV": {
+      "logoId": "ANADOLUM_TV",
+      "title": "Anadolum TV",
+      "tvgName": "Anadolum TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/18c488e6-60e3-410c-bf54-034760ab5b0c.png",
+      "localFile": "liste-logo/67238d9b4a68.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ANADOLU_DOST_TV": {
+      "logoId": "ANADOLU_DOST_TV",
+      "title": "Anadolu Dost TV",
+      "tvgName": "Anadolu Dost TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/bccb82d4-2df3-41b7-84dc-ef08faf7f83e.png",
+      "localFile": "liste-logo/c609dc9d6b8b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ANADOLU_NET_TV": {
+      "logoId": "ANADOLU_NET_TV",
+      "title": "Anadolu Net TV",
+      "tvgName": "Anadolu Net TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/01f1158f-7cfa-4e73-9484-4709e98ab0ed.png",
+      "localFile": "liste-logo/7d6c190bac49.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ANTENA_1_RO": {
+      "logoId": "ANTENA_1_RO",
+      "title": "ANTENA 1 RO",
+      "tvgName": "ANTENA 1 RO",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/9GHhm6L/ant1ro.png",
+      "localFile": "liste-logo/6ffb9efcbaf1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ARAS_TV": {
+      "logoId": "ARAS_TV",
+      "title": "Aras TV",
+      "tvgName": "Aras TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/013e22ca-e746-428b-88f5-2b21d5a330d2.png",
+      "localFile": "liste-logo/1c5dc74aaee6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ART_AMASYA": {
+      "logoId": "ART_AMASYA",
+      "title": "ART Amasya",
+      "tvgName": "ART Amasya",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/09ddfa2e-3d41-40fc-a102-530ef29f8019.png",
+      "localFile": "liste-logo/21db5e909bd1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ART_WORLD_TV": {
+      "logoId": "ART_WORLD_TV",
+      "title": "Art World TV",
+      "tvgName": "Art World TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e92f28a7-6a1c-4e5b-97f9-a719c66e4f0b.png",
+      "localFile": "liste-logo/326f00be3bfb.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AS_TV": {
+      "logoId": "AS_TV",
+      "title": "AS TV",
+      "tvgName": "AS TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/a6fd6a98-66b1-487b-ae71-43cebc42c0d6.png",
+      "localFile": "liste-logo/4f051b06eff7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ATV_ALANYA": {
+      "logoId": "ATV_ALANYA",
+      "title": "ATV Alanya",
+      "tvgName": "ATV Alanya",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3492b601-ffe3-4bac-bdb5-4ca090a9d207.png",
+      "localFile": "liste-logo/d04ad2aa9615.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ATV_AVRUPA": {
+      "logoId": "ATV_AVRUPA",
+      "title": "ATV Avrupa",
+      "tvgName": "ATV Avrupa",
+      "group": "Ulusal - Yurt Dışı",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png",
+      "localFile": "liste-logo/e0acb93dd7dd.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "AY_TV": {
+      "logoId": "AY_TV",
+      "title": "AY TV",
+      "tvgName": "AY TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3a21132d-4f0e-4f1e-8735-e53647587e83.png",
+      "localFile": "liste-logo/b2283be1e791.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "A_PARA": {
+      "logoId": "A_PARA",
+      "title": "A Para",
+      "tvgName": "A Para",
+      "group": "Ekonomi",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/144ddf6c-e2df-4725-a292-3400c3216ad8.png",
+      "localFile": "liste-logo/a513d5bfc5bf.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BALKAN_TURK": {
+      "logoId": "BALKAN_TURK",
+      "title": "Balkan Türk",
+      "tvgName": "Balkan Türk",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d0535f53-9efe-4747-aebe-fe66044ae991.png",
+      "localFile": "liste-logo/6eb297024bf0.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BASKA_TV": {
+      "logoId": "BASKA_TV",
+      "title": "Başka TV",
+      "tvgName": "Başka TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/feb106f8-f8a2-41bf-bd0b-9b79eea6e49c.png",
+      "localFile": "liste-logo/e632a788c8db.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BEGEN_TV": {
+      "logoId": "BEGEN_TV",
+      "title": "Beğen TV",
+      "tvgName": "Beğen TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b74b51a2-0659-45a5-8c82-2f3ed680eca4.png",
+      "localFile": "liste-logo/547ba9d32ebd.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BEIN_SPORTS_HABER": {
+      "logoId": "BEIN_SPORTS_HABER",
+      "title": "beIN Sports Haber",
+      "tvgName": "beIN Sports Haber",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/1e9a70ac-702b-4f1a-b882-1ba795b75aa8.png",
+      "localFile": "liste-logo/1a16a4ea1e41.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BEIN_SPORTS_HABER_C765FB": {
+      "logoId": "BEIN_SPORTS_HABER_C765FB",
+      "title": "Bein Sports Haber",
+      "tvgName": "Bein Sports Haber",
+      "group": "Spor",
+      "originalLogoUrl": "https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g=s160-c-k-c0x00ffffff-no-rj",
+      "localFile": "liste-logo/c765fbe49a15.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BENGUTURK_TV": {
+      "logoId": "BENGUTURK_TV",
+      "title": "Bengütürk TV",
+      "tvgName": "Bengütürk TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/9b729d49-2367-415b-a5e4-35c47ffaf59f.png",
+      "localFile": "liste-logo/b7473a5b28a7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BIR_TV": {
+      "logoId": "BIR_TV",
+      "title": "Bir TV",
+      "tvgName": "Bir TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e6214b51-9e82-4ab5-8ad3-56b788b9847f.png",
+      "localFile": "liste-logo/dfe042ae6529.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BIZIMKILER": {
+      "logoId": "BIZIMKILER",
+      "title": "Bizimkiler",
+      "tvgName": "Bizimkiler",
+      "group": "7/24 Dizi",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d3a78b8a-915a-42f1-a2e5-fbc27ae37ec0.png",
+      "localFile": "liste-logo/84fa052ebcf6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BIZIM_BERGAMA_TV": {
+      "logoId": "BIZIM_BERGAMA_TV",
+      "title": "Bizim Bergama TV",
+      "tvgName": "Bizim Bergama TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f5dad25f-2aa5-4db5-be96-b345afe8d4c8.png",
+      "localFile": "liste-logo/b3b0ba2929fd.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BIZIM_OCAK_TV": {
+      "logoId": "BIZIM_OCAK_TV",
+      "title": "Bizim Ocak TV",
+      "tvgName": "Bizim Ocak TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b901ba7e-2e39-4d70-996e-7df966779a05.png",
+      "localFile": "liste-logo/276b58cbcf2d.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BI_KANAL": {
+      "logoId": "BI_KANAL",
+      "title": "Bi Kanal",
+      "tvgName": "Bi Kanal",
+      "group": "Eğlence",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/9c62b6fd-db6c-450b-bbf3-352868d50eba.png",
+      "localFile": "liste-logo/3c587ec15bf8.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BLOOMBERG_HT": {
+      "logoId": "BLOOMBERG_HT",
+      "title": "Bloomberg HT",
+      "tvgName": "Bloomberg HT",
+      "group": "Ekonomi",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e31b4e7f-7a0f-43dc-ab5c-57b2c373de96.png",
+      "localFile": "liste-logo/69fc2e8f0de7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BODRUM_KENT_TV": {
+      "logoId": "BODRUM_KENT_TV",
+      "title": "Bodrum Kent TV",
+      "tvgName": "Bodrum Kent TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4f97ac3c-e8d6-4a18-8a90-92893e42da5b.png",
+      "localFile": "liste-logo/659d249db70a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BRIC_VE_SATRANC_TV": {
+      "logoId": "BRIC_VE_SATRANC_TV",
+      "title": "Briç ve Satranç TV",
+      "tvgName": "Briç ve Satranç TV",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/209495ee-35fc-47b8-b442-f9a410110970.png",
+      "localFile": "liste-logo/ce9e14f60396.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BRTV": {
+      "logoId": "BRTV",
+      "title": "BRTV",
+      "tvgName": "BRTV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/5bc3b11d-50ba-49ed-b983-829cb5b4103f.png",
+      "localFile": "liste-logo/706843cedc54.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BRT_2": {
+      "logoId": "BRT_2",
+      "title": "BRT 2",
+      "tvgName": "BRT 2",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/34fb31ce-3a6c-4d7b-b731-c7e08cc6c66a.png",
+      "localFile": "liste-logo/5e30581331fd.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BRUKSEL_TURK": {
+      "logoId": "BRUKSEL_TURK",
+      "title": "Brüksel Türk",
+      "tvgName": "Brüksel Türk",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/eef8a593-a221-440f-af73-8f0de58c1705.png",
+      "localFile": "liste-logo/3a26c5c016b1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BULTURK_TV": {
+      "logoId": "BULTURK_TV",
+      "title": "BULTÜRK TV",
+      "tvgName": "BULTÜRK TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ec96067a-203f-4f34-a679-82294fe5a36a.png",
+      "localFile": "liste-logo/05a1cb8f011f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "BUSINESS_CHANNEL_TURK": {
+      "logoId": "BUSINESS_CHANNEL_TURK",
+      "title": "Business Channel Türk",
+      "tvgName": "Business Channel Türk",
+      "group": "Ekonomi",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f24d133d-940f-49b9-9ea1-2ac2d48f5b99.png",
+      "localFile": "liste-logo/66b2e0d5ccf2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CANKIRI_TV": {
+      "logoId": "CANKIRI_TV",
+      "title": "Çankırı TV",
+      "tvgName": "Çankırı TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3d77f4d1-5300-47b4-89c7-58f64fee05bd.png",
+      "localFile": "liste-logo/a86e965b2cf9.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CANSUYU_TV": {
+      "logoId": "CANSUYU_TV",
+      "title": "Cansuyu TV",
+      "tvgName": "Cansuyu TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b0c4eabe-d127-41e6-abc7-5180bb7000df.png",
+      "localFile": "liste-logo/8cc20f0b5cf3.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CAN_TEMPO_TV": {
+      "logoId": "CAN_TEMPO_TV",
+      "title": "Can Tempo TV",
+      "tvgName": "Can Tempo TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/a16de706-98e3-4188-8130-e4eee7c616aa.png",
+      "localFile": "liste-logo/871d8666ae53.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CAN_TV": {
+      "logoId": "CAN_TV",
+      "title": "Can TV",
+      "tvgName": "Can TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/5faee5ba-3a15-4b59-960e-ea10d983273b.png",
+      "localFile": "liste-logo/bba01882d2c5.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CARTOON_NETWORK": {
+      "logoId": "CARTOON_NETWORK",
+      "title": "Cartoon Network",
+      "tvgName": "Cartoon Network",
+      "group": "Çocuk",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png",
+      "localFile": "liste-logo/3c65fbfd2682.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CAY_TV": {
+      "logoId": "CAY_TV",
+      "title": "Çay TV",
+      "tvgName": "Çay TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d2036edb-e37e-41c0-94ac-696ac92dcdf6.png",
+      "localFile": "liste-logo/7613a17d5758.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CGTN_BELGESEL": {
+      "logoId": "CGTN_BELGESEL",
+      "title": "CGTN Belgesel",
+      "tvgName": "CGTN Belgesel",
+      "group": "Belgesel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png",
+      "localFile": "liste-logo/339f25710fb1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CHILL_TV": {
+      "logoId": "CHILL_TV",
+      "title": "Chill TV",
+      "tvgName": "Chill TV",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/05f87412-5cd3-41ee-9874-66e41121c6eb.png",
+      "localFile": "liste-logo/4a0a8cd5a71c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CIFTCI_TV": {
+      "logoId": "CIFTCI_TV",
+      "title": "Çiftçi TV",
+      "tvgName": "Çiftçi TV",
+      "group": "Belgesel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0a4992bf-7c3d-41ae-aa0d-e44ecb1ac0cb.png",
+      "localFile": "liste-logo/227b932772d9.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CINE_5": {
+      "logoId": "CINE_5",
+      "title": "Cine 5",
+      "tvgName": "Cine 5",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7b9d9a59-51ac-4988-b52a-2c23c0b35cff.png",
+      "localFile": "liste-logo/652f38f0f105.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CLUBBING_TV": {
+      "logoId": "CLUBBING_TV",
+      "title": "CLUBBING TV",
+      "tvgName": "CLUBBING TV",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/M5P1TMG/clubbing.png",
+      "localFile": "liste-logo/2722b144e8f3.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "CNN_TURK": {
+      "logoId": "CNN_TURK",
+      "title": "CNN Türk",
+      "tvgName": "CNN Türk",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6ac77b6a-6e58-49e8-8e76-bc57fdbbd13f.png",
+      "localFile": "liste-logo/9cf85195c9b2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DENIZ_POSTASI_TV": {
+      "logoId": "DENIZ_POSTASI_TV",
+      "title": "Deniz Postası TV",
+      "tvgName": "Deniz Postası TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/2de47c04-a647-482d-87cb-b19ec577bf15.png",
+      "localFile": "liste-logo/0d4902267063.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DER_TV_23": {
+      "logoId": "DER_TV_23",
+      "title": "Der TV 23",
+      "tvgName": "Der TV 23",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DEVELI_CAGRI_TV": {
+      "logoId": "DEVELI_CAGRI_TV",
+      "title": "Develi Çağrı TV",
+      "tvgName": "Develi Çağrı TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/53dc7093-c5b8-434b-9d8a-6f71855dc5b4.png",
+      "localFile": "liste-logo/a2242be8fff7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DIM_TV": {
+      "logoId": "DIM_TV",
+      "title": "Dim TV",
+      "tvgName": "Dim TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c5f7c0e9-be1c-4289-80d1-55ab9bc1c46f.png",
+      "localFile": "liste-logo/2f4b404c91c1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DIZI_FILM_TV": {
+      "logoId": "DIZI_FILM_TV",
+      "title": "Dizi-Film TV",
+      "tvgName": "Dizi-Film TV",
+      "group": "Eğlence",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png",
+      "localFile": "liste-logo/4109bc35649e.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DREAM_TURK": {
+      "logoId": "DREAM_TURK",
+      "title": "Dream Türk",
+      "tvgName": "Dream Türk",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/2bb603cc-f72e-484e-8c70-98f82cc7529d.png",
+      "localFile": "liste-logo/2d545ee5b8e2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DUZCE_TV": {
+      "logoId": "DUZCE_TV",
+      "title": "Düzce TV",
+      "tvgName": "Düzce TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/1ba7f34e-b950-4e49-a6ad-87bc39d45a76.png",
+      "localFile": "liste-logo/12b34a2792a2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "DUZGUN_TV": {
+      "logoId": "DUZGUN_TV",
+      "title": "Düzgün TV",
+      "tvgName": "Düzgün TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/57456c5a-8598-48bc-b003-97a98cfb62d9.png",
+      "localFile": "liste-logo/503e2b7d0cb9.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EDIRNE_TV": {
+      "logoId": "EDIRNE_TV",
+      "title": "Edirne TV",
+      "tvgName": "Edirne TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/12bcd1d9-9978-4b15-8caf-c3a36485557b.png",
+      "localFile": "liste-logo/7fad0174ccf6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EGE_LIVE_TV": {
+      "logoId": "EGE_LIVE_TV",
+      "title": "Ege Live TV",
+      "tvgName": "Ege Live TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4a1c798d-6f17-49cb-8d61-bcaddd000138.png",
+      "localFile": "liste-logo/d850090a3115.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EKOL_SPORTS": {
+      "logoId": "EKOL_SPORTS",
+      "title": "Ekol Sports",
+      "tvgName": "Ekol Sports",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png",
+      "localFile": "liste-logo/bc511c85502a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EKOL_TV": {
+      "logoId": "EKOL_TV",
+      "title": "Ekol TV",
+      "tvgName": "Ekol TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/76175b6c-2a79-4fcd-89d5-026c4e76edb1.png",
+      "localFile": "liste-logo/9ef3898f431f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EKONOMIK_NOKTA_TV": {
+      "logoId": "EKONOMIK_NOKTA_TV",
+      "title": "Ekonomik Nokta TV",
+      "tvgName": "Ekonomik Nokta TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f9b17518-eb05-4276-98b9-f1267b40c923.png",
+      "localFile": "liste-logo/d892765a5a4f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EKOTURK": {
+      "logoId": "EKOTURK",
+      "title": "Ekotürk",
+      "tvgName": "Ekotürk",
+      "group": "Ekonomi",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e25527ce-8f1b-4ff5-a847-db2601a0ea56.png",
+      "localFile": "liste-logo/5d664c84f962.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ERCIS_TV": {
+      "logoId": "ERCIS_TV",
+      "title": "Erciş TV",
+      "tvgName": "Erciş TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/14cf995c-5422-4fca-a8f6-fbb129626db6.png",
+      "localFile": "liste-logo/8316e663f993.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ERCIYES_TV": {
+      "logoId": "ERCIYES_TV",
+      "title": "Erciyes TV",
+      "tvgName": "Erciyes TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d9304a3b-0e27-4c57-b6b0-662d2fd8b3a2.png",
+      "localFile": "liste-logo/e9c654a49df5.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ERT_ERBAA": {
+      "logoId": "ERT_ERBAA",
+      "title": "ERT Erbaa",
+      "tvgName": "ERT Erbaa",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/57f93e09-65f4-4a58-9063-a1809ae51843.png",
+      "localFile": "liste-logo/8282fb684f36.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ERZURUM_WEB_TV": {
+      "logoId": "ERZURUM_WEB_TV",
+      "title": "Erzurum Web TV",
+      "tvgName": "Erzurum Web TV",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7c837a96-f999-43a0-8e78-f1e48d34517a.png",
+      "localFile": "liste-logo/92829c296e16.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ER_TV": {
+      "logoId": "ER_TV",
+      "title": "ER TV",
+      "tvgName": "ER TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/945074f3-d029-4895-8245-ff1f03f65b4d.png",
+      "localFile": "liste-logo/dc354e0c9f86.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ESENLER_SEHIR_EKRANI": {
+      "logoId": "ESENLER_SEHIR_EKRANI",
+      "title": "Esenler Şehir Ekranı",
+      "tvgName": "Esenler Şehir Ekranı",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/bef49534-0add-4df1-b09c-a6f4ed5d497b.png",
+      "localFile": "liste-logo/cef85003bc09.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ESFA_TV": {
+      "logoId": "ESFA_TV",
+      "title": "Esfa TV",
+      "tvgName": "Esfa TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ESPIYE_TV": {
+      "logoId": "ESPIYE_TV",
+      "title": "Espiye TV",
+      "tvgName": "Espiye TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4920ca5c-2ac3-4cbb-aea8-4410969b0d6f.png",
+      "localFile": "liste-logo/73447a69cee7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ES_TV": {
+      "logoId": "ES_TV",
+      "title": "ES TV",
+      "tvgName": "ES TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4250cfa3-9fc3-4ac6-89b9-673e9228ef92.png",
+      "localFile": "liste-logo/423587054c95.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ETV_KAYSERI": {
+      "logoId": "ETV_KAYSERI",
+      "title": "ETV Kayseri",
+      "tvgName": "ETV Kayseri",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f865a01a-df8d-4703-a5a1-d2ecd0c35ca7.png",
+      "localFile": "liste-logo/b6ed1674a97a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ETV_MANISA": {
+      "logoId": "ETV_MANISA",
+      "title": "ETV Manisa",
+      "tvgName": "ETV Manisa",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7a738603-0533-4cb2-a3cf-766aedb31b21.png",
+      "localFile": "liste-logo/9104426aa488.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EUROSPORT_1": {
+      "logoId": "EUROSPORT_1",
+      "title": "EUROSPORT 1",
+      "tvgName": "EUROSPORT 1",
+      "group": "EUROSPORT 1",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EUROSPORT_2": {
+      "logoId": "EUROSPORT_2",
+      "title": "EUROSPORT 2",
+      "tvgName": "EUROSPORT 2",
+      "group": "EUROSPORT 2",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EURO_90_TV": {
+      "logoId": "EURO_90_TV",
+      "title": "Euro 90 TV",
+      "tvgName": "Euro 90 TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b3aa542e-ea0a-4440-abd7-9cab98fb9b1a.png",
+      "localFile": "liste-logo/b7c1f8ea5281.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EURO_D": {
+      "logoId": "EURO_D",
+      "title": "Euro D",
+      "tvgName": "Euro D",
+      "group": "Ulusal - Yurt Dışı",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png",
+      "localFile": "liste-logo/d81286158723.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EURO_NEWS_34": {
+      "logoId": "EURO_NEWS_34",
+      "title": "Euro News 34",
+      "tvgName": "Euro News 34",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d14db511-4ce4-4ac8-8dbe-7c21ff86ca44.png",
+      "localFile": "liste-logo/dae2d571d5ba.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "EZGI_TV": {
+      "logoId": "EZGI_TV",
+      "title": "Ezgi TV",
+      "tvgName": "Ezgi TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FARK_TURK_TV": {
+      "logoId": "FARK_TURK_TV",
+      "title": "Fark Türk TV",
+      "tvgName": "Fark Türk TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dfa107f7-5236-46d9-a3c7-2f75ef72f103.png",
+      "localFile": "liste-logo/6890d3387ded.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FASHION_ONE_TV": {
+      "logoId": "FASHION_ONE_TV",
+      "title": "Fashion One TV",
+      "tvgName": "Fashion One TV",
+      "group": "Eğlence",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/935e306b-8134-4672-80c3-9487b0f021a0.png",
+      "localFile": "liste-logo/93ddc7f35f6e.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FASHION_WORLD": {
+      "logoId": "FASHION_WORLD",
+      "title": "Fashion World",
+      "tvgName": "Fashion World",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ae341ef8-cb12-4f0d-9141-f51697cde227.png",
+      "localFile": "liste-logo/a8e4f9d6de30.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FB_TV": {
+      "logoId": "FB_TV",
+      "title": "FB TV",
+      "tvgName": "FB TV",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c49e30f3-5917-452e-93ae-56886a8e8b04.png",
+      "localFile": "liste-logo/d1fbd1b4e883.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FILISTIN_TV": {
+      "logoId": "FILISTIN_TV",
+      "title": "Filistin TV",
+      "tvgName": "Filistin TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FINANS_TURK": {
+      "logoId": "FINANS_TURK",
+      "title": "Finans Türk",
+      "tvgName": "Finans Türk",
+      "group": "Ekonomi",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png",
+      "localFile": "liste-logo/5be52bb74e8a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FIT_YASA_TV": {
+      "logoId": "FIT_YASA_TV",
+      "title": "Fit Yaşa TV",
+      "tvgName": "Fit Yaşa TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0d799f92-d997-4a04-8a3b-3fbea0a6b3aa.png",
+      "localFile": "liste-logo/5c29faa5c456.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FLASH_HABER_TV": {
+      "logoId": "FLASH_HABER_TV",
+      "title": "Flash Haber TV",
+      "tvgName": "Flash Haber TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/48705266-7426-492a-a091-f2e599ba7a36.png",
+      "localFile": "liste-logo/33849f50ee64.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FOHOW_TV": {
+      "logoId": "FOHOW_TV",
+      "title": "Fohow TV",
+      "tvgName": "Fohow TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6c4a52e7-4b29-4fd2-81d3-e92d7d6fb548.png",
+      "localFile": "liste-logo/e3acf10941c6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FORTUNA_TV": {
+      "logoId": "FORTUNA_TV",
+      "title": "Fortuna TV",
+      "tvgName": "Fortuna TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/69520272-a5e8-4d6f-891a-5e5620d92acc.png",
+      "localFile": "liste-logo/2c26a44a6af6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "FRT_TV_FETHIYE": {
+      "logoId": "FRT_TV_FETHIYE",
+      "title": "FRT TV Fethiye",
+      "tvgName": "FRT TV Fethiye",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/64704a29-2fe5-4a17-853a-f2dc11ab0238.png",
+      "localFile": "liste-logo/9fa82780343d.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GEMLIKIN_SESI_TV": {
+      "logoId": "GEMLIKIN_SESI_TV",
+      "title": "Gemlikin Sesi TV",
+      "tvgName": "Gemlikin Sesi TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4ca348c7-1037-4dd6-8ba6-a5d5e4fc53e1.png",
+      "localFile": "liste-logo/a77c6c560a77.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GENC_TV": {
+      "logoId": "GENC_TV",
+      "title": "Genç TV",
+      "tvgName": "Genç TV",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/62b08979-f113-4cd8-a086-f26bb441ac14.png",
+      "localFile": "liste-logo/46d99cca0a3d.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GENERATIONS_TV": {
+      "logoId": "GENERATIONS_TV",
+      "title": "GÉNÉRATIONS TV",
+      "tvgName": "GÉNÉRATIONS TV",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/g3YTn6c/geneok.png",
+      "localFile": "liste-logo/251b65dd4854.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GOPSEN_TV": {
+      "logoId": "GOPSEN_TV",
+      "title": "Göpsen TV",
+      "tvgName": "Göpsen TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/2f95410c-911a-4302-8642-e89bef9e1444.png",
+      "localFile": "liste-logo/80bd54ad9cf6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GOZDE_TV": {
+      "logoId": "GOZDE_TV",
+      "title": "Gözde TV",
+      "tvgName": "Gözde TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7ea773c9-63bb-4a15-b6a2-85d57ad6a096.png",
+      "localFile": "liste-logo/57b270a4ddde.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GPB_1TV": {
+      "logoId": "GPB_1TV",
+      "title": "GPB 1TV",
+      "tvgName": "GPB 1TV",
+      "group": "|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",
+      "originalLogoUrl": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+      "localFile": "liste-logo/6e1aae6fc1a1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GPB_2TV": {
+      "logoId": "GPB_2TV",
+      "title": "GPB 2TV",
+      "tvgName": "GPB 2TV",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+      "localFile": "liste-logo/6e1aae6fc1a1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GRT_TV": {
+      "logoId": "GRT_TV",
+      "title": "GRT TV",
+      "tvgName": "GRT TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f7ec78f8-43d2-4117-913a-7f45893d6774.png",
+      "localFile": "liste-logo/44ad0a636067.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GUNEDOGUS_TV": {
+      "logoId": "GUNEDOGUS_TV",
+      "title": "Günedoğuş TV",
+      "tvgName": "Günedoğuş TV",
+      "group": "Ekonomi",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dbf9df04-b521-4d47-a165-776102d7ee93.png",
+      "localFile": "liste-logo/51da8a794b03.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GURBET_24_TV": {
+      "logoId": "GURBET_24_TV",
+      "title": "Gurbet 24 TV",
+      "tvgName": "Gurbet 24 TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6f55aa40-5d5f-4d3a-b2e7-a3a92c4101b0.png",
+      "localFile": "liste-logo/f77b23ce54b4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "GZT_TV": {
+      "logoId": "GZT_TV",
+      "title": "GZT TV",
+      "tvgName": "GZT TV",
+      "group": "Eğlence",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b50865cd-24e3-4a24-9c10-cf61573b6320.png",
+      "localFile": "liste-logo/0a2ddc5f17dc.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HABERTURK": {
+      "logoId": "HABERTURK",
+      "title": "Habertürk",
+      "tvgName": "Habertürk",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/98474191-bf00-43a0-b189-03f970e4566c.png",
+      "localFile": "liste-logo/222c795a9c3f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HABER_61_TV": {
+      "logoId": "HABER_61_TV",
+      "title": "Haber 61 TV",
+      "tvgName": "Haber 61 TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ecf3f0ba-00e0-4a78-b779-4dd7acc5f4f3.png",
+      "localFile": "liste-logo/eb213aff3e83.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HABER_CADDESI_TV": {
+      "logoId": "HABER_CADDESI_TV",
+      "title": "Haber Caddesi TV",
+      "tvgName": "Haber Caddesi TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4b16fb97-2004-4d4d-8a8c-c14cac7b20b5.png",
+      "localFile": "liste-logo/826769e8f7ff.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HABER_RIZE": {
+      "logoId": "HABER_RIZE",
+      "title": "Haber Rize",
+      "tvgName": "Haber Rize",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/62ab4e54-81c6-4f26-9f41-382d4fa486e4.png",
+      "localFile": "liste-logo/f63535addf95.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HALK_TV": {
+      "logoId": "HALK_TV",
+      "title": "Halk TV",
+      "tvgName": "Halk TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png",
+      "localFile": "liste-logo/b4942390e41f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HDH_TURK_TV": {
+      "logoId": "HDH_TURK_TV",
+      "title": "HDH Türk TV",
+      "tvgName": "HDH Türk TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/1b8ee9da-0f0d-4db9-a47f-6321ec0572b5.png",
+      "localFile": "liste-logo/b0484f19492d.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HT_SPOR": {
+      "logoId": "HT_SPOR",
+      "title": "HT Spor",
+      "tvgName": "HT Spor",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png",
+      "localFile": "liste-logo/682660be327c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HUNAT_TV": {
+      "logoId": "HUNAT_TV",
+      "title": "Hunat TV",
+      "tvgName": "Hunat TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3aee87b0-0e14-4031-8cea-cd0634e652bc.png",
+      "localFile": "liste-logo/d397949a6130.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "HUR_TV": {
+      "logoId": "HUR_TV",
+      "title": "Hür TV",
+      "tvgName": "Hür TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/72ff9fbe-54cf-462d-bc37-040d66a92304.png",
+      "localFile": "liste-logo/7d947c20b83f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ICEL_TV": {
+      "logoId": "ICEL_TV",
+      "title": "İçel TV",
+      "tvgName": "İçel TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3d11a62f-dc52-4fd4-b816-f06e2b119c10.png",
+      "localFile": "liste-logo/ea029ab2c4c2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ILKE_TV": {
+      "logoId": "ILKE_TV",
+      "title": "İlke TV",
+      "tvgName": "İlke TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f2c6a86b-559b-4c79-8fa0-1005a4fdee3b.png",
+      "localFile": "liste-logo/16353f6cdedb.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "IMEDI": {
+      "logoId": "IMEDI",
+      "title": "IMEDI",
+      "tvgName": "IMEDI",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+      "localFile": "liste-logo/6e1aae6fc1a1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "IZMIR_TIME_35_TV": {
+      "logoId": "IZMIR_TIME_35_TV",
+      "title": "İzmir Time 35 TV",
+      "tvgName": "İzmir Time 35 TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8dec827a-9d37-459a-8093-fd0785186a21.png",
+      "localFile": "liste-logo/f480a1aa525e.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "IZMIR_TURK_TV": {
+      "logoId": "IZMIR_TURK_TV",
+      "title": "İzmir Türk TV",
+      "tvgName": "İzmir Türk TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e0291c16-17be-4623-a3a8-e77667d49186.png",
+      "localFile": "liste-logo/e1cd28bd3611.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KA07_TV": {
+      "logoId": "KA07_TV",
+      "title": "KA07 TV",
+      "tvgName": "KA07 TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ed2ae774-721e-47b8-ac07-23bf79a494d3.png",
+      "localFile": "liste-logo/9d0e5643c1d0.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_19": {
+      "logoId": "KANAL_19",
+      "title": "Kanal 19",
+      "tvgName": "Kanal 19",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7a5fe141-ea08-4326-a843-7ad06f7981d4.png",
+      "localFile": "liste-logo/3aae093df8b8.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_23": {
+      "logoId": "KANAL_23",
+      "title": "Kanal 23",
+      "tvgName": "Kanal 23",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dc1e4a68-c6d3-478a-9801-ac807aeda8b5.png",
+      "localFile": "liste-logo/06217b621864.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_26": {
+      "logoId": "KANAL_26",
+      "title": "Kanal 26",
+      "tvgName": "Kanal 26",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e340d68a-576c-4d82-81ec-983fb5941d12.png",
+      "localFile": "liste-logo/0a63d29c4c5b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_3": {
+      "logoId": "KANAL_3",
+      "title": "Kanal 3",
+      "tvgName": "Kanal 3",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f931cdd4-8e9f-4ffc-8f03-3e0f99559d4f.png",
+      "localFile": "liste-logo/734f441c8482.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_32": {
+      "logoId": "KANAL_32",
+      "title": "Kanal 32",
+      "tvgName": "Kanal 32",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0fd41826-8004-4ef8-8b43-15fc67a68a8f.png",
+      "localFile": "liste-logo/f66fac708393.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_33": {
+      "logoId": "KANAL_33",
+      "title": "Kanal 33",
+      "tvgName": "Kanal 33",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8214ebad-32ad-4001-b317-ef7b6ea3edb3.png",
+      "localFile": "liste-logo/309206e8f9ed.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_34": {
+      "logoId": "KANAL_34",
+      "title": "Kanal 34",
+      "tvgName": "Kanal 34",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3cfa36fb-de70-4e25-8b08-d4589989612d.png",
+      "localFile": "liste-logo/d38313ad86e6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_38": {
+      "logoId": "KANAL_38",
+      "title": "Kanal 38",
+      "tvgName": "Kanal 38",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/865e225b-e6e9-4c8c-a1b9-be17f6d70f1b.png",
+      "localFile": "liste-logo/9bdc7f158cea.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_5": {
+      "logoId": "KANAL_5",
+      "title": "Kanal 5",
+      "tvgName": "Kanal 5",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/837d3761-ebed-4250-95bc-40b9aec82396.png",
+      "localFile": "liste-logo/ee58ae0a3cfa.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_53": {
+      "logoId": "KANAL_53",
+      "title": "Kanal 53",
+      "tvgName": "Kanal 53",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/cf0e41c0-5c20-4359-ba12-a4854034d6f6.png",
+      "localFile": "liste-logo/1273c4546f0e.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_58": {
+      "logoId": "KANAL_58",
+      "title": "Kanal 58",
+      "tvgName": "Kanal 58",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/aeb96c96-e220-4e0d-b328-bcafc2f886c7.png",
+      "localFile": "liste-logo/effa54234570.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_7_AVRUPA": {
+      "logoId": "KANAL_7_AVRUPA",
+      "title": "Kanal 7 Avrupa",
+      "tvgName": "Kanal 7 Avrupa",
+      "group": "Ulusal - Yurt Dışı",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/9d451286-3aa1-44ca-9936-1a16d8550ed7.png",
+      "localFile": "liste-logo/8a2f53cf4552.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_ADA": {
+      "logoId": "KANAL_ADA",
+      "title": "Kanal Ada",
+      "tvgName": "Kanal Ada",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/21ee60c6-f429-40a3-9d74-ce574831de19.png",
+      "localFile": "liste-logo/746a303f1d62.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_AVRUPA": {
+      "logoId": "KANAL_AVRUPA",
+      "title": "Kanal Avrupa",
+      "tvgName": "Kanal Avrupa",
+      "group": "Ulusal - Yurt Dışı",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ba21c671-ff84-4bf0-97b5-8b326291d36b.png",
+      "localFile": "liste-logo/67cabc2b4e5d.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_B": {
+      "logoId": "KANAL_B",
+      "title": "Kanal B",
+      "tvgName": "Kanal B",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/aec30707-6eb2-40de-941c-a15a75b99dd7.png",
+      "localFile": "liste-logo/9619739c6ceb.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_FIRAT": {
+      "logoId": "KANAL_FIRAT",
+      "title": "Kanal Fırat",
+      "tvgName": "Kanal Fırat",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/be5046eb-c978-489d-8290-b3912f5e3185.png",
+      "localFile": "liste-logo/bbf22fa0cabb.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_G": {
+      "logoId": "KANAL_G",
+      "title": "Kanal G",
+      "tvgName": "Kanal G",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d06d0ec1-b497-42d6-aa58-bfcfa8bec0f0.png",
+      "localFile": "liste-logo/59f4572cf9b2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_PLUS": {
+      "logoId": "KANAL_PLUS",
+      "title": "Kanal Plus",
+      "tvgName": "Kanal Plus",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d486ddac-efe5-4dde-9c6b-53429b597733.png",
+      "localFile": "liste-logo/c2218d3e3658.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_SIM": {
+      "logoId": "KANAL_SIM",
+      "title": "Kanal Sim",
+      "tvgName": "Kanal Sim",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/296b1154-4af4-4443-a93d-f9b28ab00cd4.png",
+      "localFile": "liste-logo/f63c4b4c6cd2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_T": {
+      "logoId": "KANAL_T",
+      "title": "Kanal T",
+      "tvgName": "Kanal T",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/39b624fe-91e1-47a6-9f1c-b088795fedff.png",
+      "localFile": "liste-logo/15447f69a219.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_URFA": {
+      "logoId": "KANAL_URFA",
+      "title": "Kanal Urfa",
+      "tvgName": "Kanal Urfa",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/99427daa-074a-4389-85fa-8aab992dbfb3.png",
+      "localFile": "liste-logo/cb5aa78ac686.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_V": {
+      "logoId": "KANAL_V",
+      "title": "Kanal V",
+      "tvgName": "Kanal V",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3191110d-6ecc-499d-b614-8a3582ccbb7e.png",
+      "localFile": "liste-logo/90a916718937.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KANAL_Z": {
+      "logoId": "KANAL_Z",
+      "title": "Kanal Z",
+      "tvgName": "Kanal Z",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/a34a45ef-228a-4b2f-93df-247e1b22c999.png",
+      "localFile": "liste-logo/d7d658928bd7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KARADENIZ_TV": {
+      "logoId": "KARADENIZ_TV",
+      "title": "Karadeniz TV",
+      "tvgName": "Karadeniz TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b4ca1c02-80c2-4620-b0cc-7dacd10821a7.png",
+      "localFile": "liste-logo/8d84131dfa32.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KARASU_TV": {
+      "logoId": "KARASU_TV",
+      "title": "Karasu TV",
+      "tvgName": "Karasu TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f5fa3c04-5a07-44b7-a447-7b171065c9ac.png",
+      "localFile": "liste-logo/4ddd5c163c63.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KARDELEN_TV": {
+      "logoId": "KARDELEN_TV",
+      "title": "Kardelen TV",
+      "tvgName": "Kardelen TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/a5df1c55-89f6-4c94-93b9-ea17c1c81fb5.png",
+      "localFile": "liste-logo/bbfb090dd3c1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KASTAMONU_TV": {
+      "logoId": "KASTAMONU_TV",
+      "title": "Kastamonu TV",
+      "tvgName": "Kastamonu TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/98251a7c-ceee-4d00-b15d-b583418e50e6.png",
+      "localFile": "liste-logo/cf0881efa694.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KAY_TV": {
+      "logoId": "KAY_TV",
+      "title": "Kay TV",
+      "tvgName": "Kay TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/5abb3a3a-0162-4ade-93a7-9c4b8c13c866.png",
+      "localFile": "liste-logo/65adfb5e615a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KDC_TV": {
+      "logoId": "KDC_TV",
+      "title": "KDC TV",
+      "tvgName": "KDC TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7b433dd9-3f59-4f33-86b6-e607b483cd49.png",
+      "localFile": "liste-logo/665c65d60691.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KENT_64_TV": {
+      "logoId": "KENT_64_TV",
+      "title": "Kent 64 TV",
+      "tvgName": "Kent 64 TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/167afdbb-3037-4710-9aa5-4f2d2e23a8e0.png",
+      "localFile": "liste-logo/47530ac31cef.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KENT_TURK_TV": {
+      "logoId": "KENT_TURK_TV",
+      "title": "Kent Türk TV",
+      "tvgName": "Kent Türk TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b2ebf372-c79f-44ab-b0e5-d5aab2c05f34.png",
+      "localFile": "liste-logo/8b5944e7b0f8.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KIBRIS_TV": {
+      "logoId": "KIBRIS_TV",
+      "title": "Kıbrıs TV",
+      "tvgName": "Kıbrıs TV",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f34c1935-9e4c-4a1b-8d74-aeb5fae6d4fb.png",
+      "localFile": "liste-logo/01d63af3119c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KISISEL_GELISIM_TV": {
+      "logoId": "KISISEL_GELISIM_TV",
+      "title": "Kişisel Gelişim TV",
+      "tvgName": "Kişisel Gelişim TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7ae1e547-7b59-476c-bbf2-b5dda94f497b.png",
+      "localFile": "liste-logo/5987ec26d684.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KOCAELI_TV": {
+      "logoId": "KOCAELI_TV",
+      "title": "Kocaeli TV",
+      "tvgName": "Kocaeli TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/235b15b6-a9c3-41e5-a80d-6b6e156a1f19.png",
+      "localFile": "liste-logo/744014bb0f21.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KONYA_OLAY_TV": {
+      "logoId": "KONYA_OLAY_TV",
+      "title": "Konya Olay TV",
+      "tvgName": "Konya Olay TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/062b38f0-6b25-4701-b712-5b0c5d5e9a60.png",
+      "localFile": "liste-logo/13c8df939bd7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KONYA_UN_TV": {
+      "logoId": "KONYA_UN_TV",
+      "title": "Konya Ün TV",
+      "tvgName": "Konya Ün TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0c2841f5-af65-4ca2-b546-8328e6753078.png",
+      "localFile": "liste-logo/a536dcdff74d.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KON_TV": {
+      "logoId": "KON_TV",
+      "title": "Kon TV",
+      "tvgName": "Kon TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/1e53542a-fbcb-4ffa-9215-879b42456841.png",
+      "localFile": "liste-logo/32d3d1b98787.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KORKU_HIKAYELERI": {
+      "logoId": "KORKU_HIKAYELERI",
+      "title": "Korku Hikayeleri",
+      "tvgName": "Korku Hikayeleri",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c1490368-79ac-4b0d-bb8f-1cc2cd49b94e.png",
+      "localFile": "liste-logo/db330ef02d14.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KOY_TV": {
+      "logoId": "KOY_TV",
+      "title": "Köy TV",
+      "tvgName": "Köy TV",
+      "group": "Belgesel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/592f509e-2e57-445f-833c-e3388ae88120.png",
+      "localFile": "liste-logo/1a07111578d2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KRAL_POP_TV": {
+      "logoId": "KRAL_POP_TV",
+      "title": "Kral Pop TV",
+      "tvgName": "Kral Pop TV",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/1dc650d4-0a3f-4f97-bdb2-4cf01cef8e0a.png",
+      "localFile": "liste-logo/9515ff6dff70.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "KUZEY_KIBRIS_TV": {
+      "logoId": "KUZEY_KIBRIS_TV",
+      "title": "Kuzey Kıbrıs TV",
+      "tvgName": "Kuzey Kıbrıs TV",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/24f4c73c-7234-4dba-bab9-e55736be3208.png",
+      "localFile": "liste-logo/e111d558bf4c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "LEBIH_TV": {
+      "logoId": "LEBIH_TV",
+      "title": "Lebih TV",
+      "tvgName": "Lebih TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/bae1268c-2f08-4a42-b1dc-a64344d218e4.png",
+      "localFile": "liste-logo/c436f066fd30.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "LIDER_HABER_TV": {
+      "logoId": "LIDER_HABER_TV",
+      "title": "Lider Haber TV",
+      "tvgName": "Lider Haber TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3ec303e0-dabd-4b43-b396-e816a7ed7e43.png",
+      "localFile": "liste-logo/36d2e0e07378.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "LIFE_TV": {
+      "logoId": "LIFE_TV",
+      "title": "Life TV",
+      "tvgName": "Life TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/abea6219-cabb-4af4-8ddb-6b8925ffa62f.png",
+      "localFile": "liste-logo/d99d2fa85f76.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "LINE_TV": {
+      "logoId": "LINE_TV",
+      "title": "Line TV",
+      "tvgName": "Line TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/93e3b940-950f-4cfe-bae2-3f96d214bddb.png",
+      "localFile": "liste-logo/0433d0d24e81.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "LUGAT_TV": {
+      "logoId": "LUGAT_TV",
+      "title": "Lugat TV",
+      "tvgName": "Lugat TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/43cf0a20-3e95-4579-ba35-5010f6be0717.png",
+      "localFile": "liste-logo/acf17aea9d2f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "LUYS_TV": {
+      "logoId": "LUYS_TV",
+      "title": "Luys TV",
+      "tvgName": "Luys TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/674086aa-7b8f-4b82-b4da-3ef8561b33b6.png",
+      "localFile": "liste-logo/fcf86c3b680c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MALATYA_PENCERE_TV": {
+      "logoId": "MALATYA_PENCERE_TV",
+      "title": "Malatya Pencere TV",
+      "tvgName": "Malatya Pencere TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dbb40719-daf1-445b-adce-3f6a707f588e.png",
+      "localFile": "liste-logo/73fc311c3200.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MALATYA_VUSLAT_TV": {
+      "logoId": "MALATYA_VUSLAT_TV",
+      "title": "Malatya Vuslat TV",
+      "tvgName": "Malatya Vuslat TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0e730d84-b77c-4807-8cbf-0e522afa2723.png",
+      "localFile": "liste-logo/d449318d44b8.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MAR_TV": {
+      "logoId": "MAR_TV",
+      "title": "Mar TV",
+      "tvgName": "Mar TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d2558bd2-b8c6-44c3-8172-11c3c47dacb0.png",
+      "localFile": "liste-logo/2718e86c73ac.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MEDYA_TV": {
+      "logoId": "MEDYA_TV",
+      "title": "Medya TV",
+      "tvgName": "Medya TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6c12e765-bae8-4877-8336-5130a11af5b7.png",
+      "localFile": "liste-logo/d04e32e0cbff.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MEGA_TV_ISKENDERUN": {
+      "logoId": "MEGA_TV_ISKENDERUN",
+      "title": "Mega TV İskenderun",
+      "tvgName": "Mega TV İskenderun",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/a57eae1c-2533-4985-8771-5940499dfcca.png",
+      "localFile": "liste-logo/a8230474bb0a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MERCAN_TV": {
+      "logoId": "MERCAN_TV",
+      "title": "Mercan TV",
+      "tvgName": "Mercan TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/bcf7c85c-a70d-4656-b835-25539ce6283a.png",
+      "localFile": "liste-logo/02576fe8d8b0.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MERKEZ_TV": {
+      "logoId": "MERKEZ_TV",
+      "title": "Merkez TV",
+      "tvgName": "Merkez TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3ac8cefb-1c3b-4830-9ecc-228804bffff4.png",
+      "localFile": "liste-logo/9e390e57a186.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "METROPOL_TV": {
+      "logoId": "METROPOL_TV",
+      "title": "Metropol TV",
+      "tvgName": "Metropol TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dd4fd644-27a9-4a49-aedd-a7555616fa31.png",
+      "localFile": "liste-logo/d2ceb810eba5.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "METRO_TURK_TV": {
+      "logoId": "METRO_TURK_TV",
+      "title": "Metro Türk TV",
+      "tvgName": "Metro Türk TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6fa9818b-db39-4f73-b661-16d7713c2b52.png",
+      "localFile": "liste-logo/e50b7c925676.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MINIKA_COCUK": {
+      "logoId": "MINIKA_COCUK",
+      "title": "Minika Çocuk",
+      "tvgName": "Minika Çocuk",
+      "group": "Çocuk",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7be5925e-181a-4c4c-96c0-9cd4ec14caea.png",
+      "localFile": "liste-logo/8373520df99f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MINIKA_GO": {
+      "logoId": "MINIKA_GO",
+      "title": "Minika Go",
+      "tvgName": "Minika Go",
+      "group": "Çocuk",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png",
+      "localFile": "liste-logo/7495ed74445a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MK_TURK": {
+      "logoId": "MK_TURK",
+      "title": "MK Türk",
+      "tvgName": "MK Türk",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MK_TV": {
+      "logoId": "MK_TV",
+      "title": "MK TV",
+      "tvgName": "MK TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/129848f9-43ed-410d-9696-846ad70a1016.png",
+      "localFile": "liste-logo/f46b3d10ba28.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MMN_CHANNEL": {
+      "logoId": "MMN_CHANNEL",
+      "title": "MMN Channel",
+      "tvgName": "MMN Channel",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/cdbba9b3-cde5-43d3-b2c6-9baba35ca94a.png",
+      "localFile": "liste-logo/58f6e58ce6e7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "MUZIK_TV": {
+      "logoId": "MUZIK_TV",
+      "title": "Müzik TV",
+      "tvgName": "Müzik TV",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c7b43467-b3b4-4f56-b0c8-e8442de03807.png",
+      "localFile": "liste-logo/242bce0c64b1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "M_TURK_TV": {
+      "logoId": "M_TURK_TV",
+      "title": "M Türk TV",
+      "tvgName": "M Türk TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f5da7259-11f3-42e6-9f8e-87edfa917288.png",
+      "localFile": "liste-logo/dcc535a1b4ff.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NATURETIME_TURKCE": {
+      "logoId": "NATURETIME_TURKCE",
+      "title": "NatureTime Türkçe",
+      "tvgName": "NatureTime Türkçe",
+      "group": "Belgesel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ed12053a-f7cb-42f8-a9bb-26e1e992ea99.png",
+      "localFile": "liste-logo/544fe2c5339b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NEF_TV": {
+      "logoId": "NEF_TV",
+      "title": "Nef TV",
+      "tvgName": "Nef TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/445053b3-3a56-47ce-a312-022c10d3df71.png",
+      "localFile": "liste-logo/051a3a0a3cbe.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NEO_HABER": {
+      "logoId": "NEO_HABER",
+      "title": "Neo Haber",
+      "tvgName": "Neo Haber",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b9a8635c-848b-49f7-ad7f-0b7fd2efe2eb.png",
+      "localFile": "liste-logo/9765bc63f4c3.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NIL_RTV": {
+      "logoId": "NIL_RTV",
+      "title": "Nil RTV",
+      "tvgName": "Nil RTV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ea6b29ab-11a2-42e7-b49b-35c2e2e6f5de.png",
+      "localFile": "liste-logo/0227e9d07f66.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NUMBER_1_ASK": {
+      "logoId": "NUMBER_1_ASK",
+      "title": "Number 1 Aşk",
+      "tvgName": "Number 1 Aşk",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/fe34c8f3-f6cc-41ea-9a84-c61b44272f36.png",
+      "localFile": "liste-logo/2832fd9ae470.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NUMBER_1_DAMAR": {
+      "logoId": "NUMBER_1_DAMAR",
+      "title": "Number 1 Damar",
+      "tvgName": "Number 1 Damar",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ef919dd3-2189-445e-aa3c-3f5422309528.png",
+      "localFile": "liste-logo/f967c5a4d9fe.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NUMBER_1_DANCE": {
+      "logoId": "NUMBER_1_DANCE",
+      "title": "Number 1 Dance",
+      "tvgName": "Number 1 Dance",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/be8bda8e-17da-40b5-9d7e-1591b6cf06e9.png",
+      "localFile": "liste-logo/f15cea86faa8.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NUMBER_1_TURK": {
+      "logoId": "NUMBER_1_TURK",
+      "title": "Number 1 Türk",
+      "tvgName": "Number 1 Türk",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/528ca8db-dba9-4db0-ba1a-949a8aab2eb7.png",
+      "localFile": "liste-logo/15014ca78811.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "NUMBER_1_TV": {
+      "logoId": "NUMBER_1_TV",
+      "title": "Number 1 TV",
+      "tvgName": "Number 1 TV",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/044cbc2d-7166-4871-8c7d-041345310d22.png",
+      "localFile": "liste-logo/19a77c00bc90.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "OBB_TV": {
+      "logoId": "OBB_TV",
+      "title": "OBB TV",
+      "tvgName": "OBB TV",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6d71901c-a256-456e-9d9e-9495a8a81423.png",
+      "localFile": "liste-logo/2a1e3cac772a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "OLAY_TURK_TV": {
+      "logoId": "OLAY_TURK_TV",
+      "title": "Olay Türk TV",
+      "tvgName": "Olay Türk TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/91b4b18e-2cda-434a-960c-b79fc50c6e40.png",
+      "localFile": "liste-logo/da4aa1b81dbc.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ON6_TV": {
+      "logoId": "ON6_TV",
+      "title": "On6 TV",
+      "tvgName": "On6 TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/708e83a1-cffd-4606-8347-02dae7ecaa55.png",
+      "localFile": "liste-logo/a887319af4e9.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ONCU_RTV": {
+      "logoId": "ONCU_RTV",
+      "title": "Öncü RTV",
+      "tvgName": "Öncü RTV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c2da3d14-00c8-4e08-8892-b5e234f47c56.png",
+      "localFile": "liste-logo/640a2aec93c8.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ONS_TV": {
+      "logoId": "ONS_TV",
+      "title": "Ons TV",
+      "tvgName": "Ons TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/23960102-afb9-45c1-a5f7-b80c0e5c70e5.png",
+      "localFile": "liste-logo/d6caaaf6648c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ON_MEDYA": {
+      "logoId": "ON_MEDYA",
+      "title": "On Medya",
+      "tvgName": "On Medya",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/41309b0a-e115-4803-9fcb-8b22472bc86c.png",
+      "localFile": "liste-logo/cd16f995d99c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "PARANIN_YONU": {
+      "logoId": "PARANIN_YONU",
+      "title": "Paranın Yönü",
+      "tvgName": "Paranın Yönü",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f21a053a-16a3-417f-baec-26688752bfa2.png",
+      "localFile": "liste-logo/f846a55346e0.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "PLAY_TV": {
+      "logoId": "PLAY_TV",
+      "title": "Play TV",
+      "tvgName": "Play TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0d2381f6-d09e-4054-9845-2ff72539ecad.png",
+      "localFile": "liste-logo/4903ebfc0539.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "POWERTURK_AKUSTIK": {
+      "logoId": "POWERTURK_AKUSTIK",
+      "title": "Powertürk Akustik",
+      "tvgName": "Powertürk Akustik",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8cfeaa96-8d4d-4d39-b6bf-9ec665e6a6c6.png",
+      "localFile": "liste-logo/11ebc83a4b70.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "POWERTURK_SLOW": {
+      "logoId": "POWERTURK_SLOW",
+      "title": "Powertürk Slow",
+      "tvgName": "Powertürk Slow",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dd255f1a-1e71-408e-8ac5-19db39acadea.png",
+      "localFile": "liste-logo/122da2c3f67c.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "POWERTURK_TAPTAZE": {
+      "logoId": "POWERTURK_TAPTAZE",
+      "title": "Powertürk Taptaze",
+      "tvgName": "Powertürk Taptaze",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/58493332-d1cb-4c24-997b-dbfa400937b2.png",
+      "localFile": "liste-logo/600ea7616367.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "POWERTURK_TV": {
+      "logoId": "POWERTURK_TV",
+      "title": "Powertürk TV",
+      "tvgName": "Powertürk TV",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b6441709-2184-4419-9203-8efb784857ca.png",
+      "localFile": "liste-logo/201863fbb576.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "POWER_DANCE": {
+      "logoId": "POWER_DANCE",
+      "title": "Power Dance",
+      "tvgName": "Power Dance",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/eaf30d27-3609-4b54-b9fa-089e8d6b6c88.png",
+      "localFile": "liste-logo/17ec210aaca2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "POWER_LOVE": {
+      "logoId": "POWER_LOVE",
+      "title": "Power Love",
+      "tvgName": "Power Love",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/87bee649-ffb8-4917-9487-29b41c896ce9.png",
+      "localFile": "liste-logo/40292cec4422.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "POWER_TV": {
+      "logoId": "POWER_TV",
+      "title": "Power TV",
+      "tvgName": "Power TV",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/358e2281-a615-4bfb-92e1-1f093756234a.png",
+      "localFile": "liste-logo/412be0ee5375.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "PRO_7_HD": {
+      "logoId": "PRO_7_HD",
+      "title": "PRO 7 HD",
+      "tvgName": "PRO 7 HD",
+      "group": "",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "PUSULA_TV_TEKIRDAG": {
+      "logoId": "PUSULA_TV_TEKIRDAG",
+      "title": "Pusula TV Tekirdağ",
+      "tvgName": "Pusula TV Tekirdağ",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f5ac2581-0f1d-431b-9903-aee09c84a395.png",
+      "localFile": "liste-logo/e78ffcbd5a44.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "RIZE_TURK_TV": {
+      "logoId": "RIZE_TURK_TV",
+      "title": "Rize Türk TV",
+      "tvgName": "Rize Türk TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/155aad8b-5fbc-43cd-bad4-7080aa053122.png",
+      "localFile": "liste-logo/b7f12a43f91b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ROMANES_TV": {
+      "logoId": "ROMANES_TV",
+      "title": "Romanes TV",
+      "tvgName": "Romanes TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "RUMELI_TURK_TV": {
+      "logoId": "RUMELI_TURK_TV",
+      "title": "Rumeli Türk TV",
+      "tvgName": "Rumeli Türk TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8d1dab5c-cd89-4450-b4f2-b30402407b43.png",
+      "localFile": "liste-logo/f131df62cea2.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SAGLIK_CHANNEL": {
+      "logoId": "SAGLIK_CHANNEL",
+      "title": "Sağlık Channel",
+      "tvgName": "Sağlık Channel",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e741412a-be8c-43f2-b33b-283610d33027.png",
+      "localFile": "liste-logo/3284807e2647.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SAGLIK_TV": {
+      "logoId": "SAGLIK_TV",
+      "title": "Sağlık TV",
+      "tvgName": "Sağlık TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/fe9999b1-c177-48a5-8d91-f947ed194df2.png",
+      "localFile": "liste-logo/afa8f7722e72.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SDM_BELGESEL_KEYFI": {
+      "logoId": "SDM_BELGESEL_KEYFI",
+      "title": "SDM Belgesel Keyfi",
+      "tvgName": "SDM Belgesel Keyfi",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/9ab542f9-51b8-4393-8de7-f53942d9ee20.png",
+      "localFile": "liste-logo/3784e72497b7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SDM_CIZGI_FILM_KEYFI": {
+      "logoId": "SDM_CIZGI_FILM_KEYFI",
+      "title": "SDM Çizgi Film Keyfi",
+      "tvgName": "SDM Çizgi Film Keyfi",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/744e5292-f1f6-43fb-94d1-0389c6e36abd.png",
+      "localFile": "liste-logo/8524748d858e.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SDM_SINEMA_KEYFI": {
+      "logoId": "SDM_SINEMA_KEYFI",
+      "title": "SDM Sinema Keyfi",
+      "tvgName": "SDM Sinema Keyfi",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3bba3430-fddc-4660-be57-2d84318c6d7c.png",
+      "localFile": "liste-logo/bc75e689b6cf.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SDM_TURKCE_MUZIK": {
+      "logoId": "SDM_TURKCE_MUZIK",
+      "title": "SDM Türkçe Müzik",
+      "tvgName": "SDM Türkçe Müzik",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3a7dc46d-f3ef-42cd-8a41-c1cc5630f62f.png",
+      "localFile": "liste-logo/b0229eb80e1f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SDM_WORLD_MUZIK": {
+      "logoId": "SDM_WORLD_MUZIK",
+      "title": "SDM World Müzik",
+      "tvgName": "SDM World Müzik",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/32c8a811-be84-4bdb-b10e-76bb7b0122cf.png",
+      "localFile": "liste-logo/e65225218924.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SEN_1_ORDUSUN": {
+      "logoId": "SEN_1_ORDUSUN",
+      "title": "Sen 1 Ordusun",
+      "tvgName": "Sen 1 Ordusun",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7a8abe5a-5e61-43e5-8be0-81cf506254fe.png",
+      "localFile": "liste-logo/2b072d355298.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SERBEST_VURUS_PRO": {
+      "logoId": "SERBEST_VURUS_PRO",
+      "title": "Serbest Vuruş Pro",
+      "tvgName": "Serbest Vuruş Pro",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ef4c44d3-6454-4f8f-a85e-14ecd88ef237.png",
+      "localFile": "liste-logo/9b1583b651a4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SERBEST_VURUS_PRO_LA_LIGA": {
+      "logoId": "SERBEST_VURUS_PRO_LA_LIGA",
+      "title": "Serbest Vuruş Pro La Liga",
+      "tvgName": "Serbest Vuruş Pro La Liga",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SERBEST_VURUS_PRO_LIG": {
+      "logoId": "SERBEST_VURUS_PRO_LIG",
+      "title": "Serbest Vuruş Pro Lig",
+      "tvgName": "Serbest Vuruş Pro Lig",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ca47de7a-b4e6-4182-ae66-80656229c99a.png",
+      "localFile": "liste-logo/38412bd6fba0.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SERHAT_TV": {
+      "logoId": "SERHAT_TV",
+      "title": "Serhat TV",
+      "tvgName": "Serhat TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d0df6ded-7fc0-411f-92be-7b4a6f2a3445.png",
+      "localFile": "liste-logo/1d6dc3e76d8f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SHOW_MAX": {
+      "logoId": "SHOW_MAX",
+      "title": "Show Max",
+      "tvgName": "Show Max",
+      "group": "Eğlence",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png",
+      "localFile": "liste-logo/c73e81da9da3.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SIFIR_TV": {
+      "logoId": "SIFIR_TV",
+      "title": "Sıfır TV",
+      "tvgName": "Sıfır TV",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png",
+      "localFile": "liste-logo/e27a919e0aeb.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SINEMA_AILE": {
+      "logoId": "SINEMA_AILE",
+      "title": "Sinema Aile",
+      "tvgName": "Sinema Aile",
+      "group": "Sinema Kanalları",
+      "originalLogoUrl": "https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png",
+      "localFile": "liste-logo/06551baefefa.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SINEMA_AILE_2": {
+      "logoId": "SINEMA_AILE_2",
+      "title": "Sinema Aile 2",
+      "tvgName": "Sinema Aile 2",
+      "group": "Sinema Kanalları",
+      "originalLogoUrl": "https://img.dsmartgo.com.tr/content/e/Mq/22898/Thumbnail.png",
+      "localFile": "liste-logo/a26ab561cc36.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SINEMA_AKSIYON": {
+      "logoId": "SINEMA_AKSIYON",
+      "title": "Sinema Aksiyon",
+      "tvgName": "Sinema Aksiyon",
+      "group": "Sinema Kanalları",
+      "originalLogoUrl": "https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png",
+      "localFile": "liste-logo/ef3b5253f6c9.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SINEMA_AKSIYON_2": {
+      "logoId": "SINEMA_AKSIYON_2",
+      "title": "Sinema Aksiyon 2",
+      "tvgName": "Sinema Aksiyon 2",
+      "group": "Sinema Kanalları",
+      "originalLogoUrl": "https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png",
+      "localFile": "liste-logo/b5d15e9f76c1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SINEMA_KOMEDI": {
+      "logoId": "SINEMA_KOMEDI",
+      "title": "Sinema Komedi",
+      "tvgName": "Sinema Komedi",
+      "group": "Sinema Kanalları",
+      "originalLogoUrl": "https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png",
+      "localFile": "liste-logo/68c3044a8c72.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SINEMA_KOMEDI_2": {
+      "logoId": "SINEMA_KOMEDI_2",
+      "title": "Sinema Komedi 2",
+      "tvgName": "Sinema Komedi 2",
+      "group": "Sinema Kanalları",
+      "originalLogoUrl": "https://img.dsmartgo.com.tr/content/o/oG/22900/Thumbnail.png",
+      "localFile": "liste-logo/c78bb3a6cebe.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SITELER_TV": {
+      "logoId": "SITELER_TV",
+      "title": "Siteler TV",
+      "tvgName": "Siteler TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/fb00cc4a-821d-4e9e-af31-3c11883f63fc.png",
+      "localFile": "liste-logo/a8bffe9c66b0.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SKAI": {
+      "logoId": "SKAI",
+      "title": "SKAI",
+      "tvgName": "SKAI",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/df2r3NS/skai.jpg",
+      "localFile": "liste-logo/fd15f8ad99b6.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SONG_TV": {
+      "logoId": "SONG_TV",
+      "title": "Song TV",
+      "tvgName": "Song TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SONMEZ_TV": {
+      "logoId": "SONMEZ_TV",
+      "title": "Sönmez TV",
+      "tvgName": "Sönmez TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/95e3cc57-2db2-497c-a5a0-38b1e09f864a.png",
+      "localFile": "liste-logo/49ee72bbe4e5.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SOZCU_TV": {
+      "logoId": "SOZCU_TV",
+      "title": "Sözcü TV",
+      "tvgName": "Sözcü TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f16de70e-9de7-4b41-937f-11a65fb2932d.png",
+      "localFile": "liste-logo/6fc1399fac41.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SPIRITY_TV": {
+      "logoId": "SPIRITY_TV",
+      "title": "Spirity TV",
+      "tvgName": "Spirity TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/987c568a-176b-4734-8639-e7013bb903e6.png",
+      "localFile": "liste-logo/2d1911af270b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SPORSMART_2_HD": {
+      "logoId": "SPORSMART_2_HD",
+      "title": "SPORSMART 2 HD",
+      "tvgName": "SPORSMART 2 HD",
+      "group": "SPORSMART 2 HD",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SPORSMART_HD": {
+      "logoId": "SPORSMART_HD",
+      "title": "SPORSMART HD",
+      "tvgName": "SPORSMART HD",
+      "group": "SPORSMART HD",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SUDURAGI_TV": {
+      "logoId": "SUDURAGI_TV",
+      "title": "Sudurağı TV",
+      "tvgName": "Sudurağı TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/89ac8ece-4e45-4993-9a4c-cc8a40f00ff3.png",
+      "localFile": "liste-logo/95860451584e.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SUN_RTV": {
+      "logoId": "SUN_RTV",
+      "title": "Sun RTV",
+      "tvgName": "Sun RTV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/955594d6-47f9-412f-a4e4-10145d21ab9f.png",
+      "localFile": "liste-logo/b017751a8f01.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "SURMANSET_HABER_TV": {
+      "logoId": "SURMANSET_HABER_TV",
+      "title": "Sürmanşet Haber TV",
+      "tvgName": "Sürmanşet Haber TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/42148d4d-5c96-4da0-93e0-55f86d8c4322.png",
+      "localFile": "liste-logo/9057c2d79c21.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TAY_TV": {
+      "logoId": "TAY_TV",
+      "title": "Tay TV",
+      "tvgName": "Tay TV",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3446fb88-4fb6-4e6f-aa5d-9eed92efbb97.png",
+      "localFile": "liste-logo/177cd9efe2aa.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TBB_WEB_TV": {
+      "logoId": "TBB_WEB_TV",
+      "title": "TBB Web TV",
+      "tvgName": "TBB Web TV",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c4fe304a-6fd6-45fe-b1f2-23379261d0d8.png",
+      "localFile": "liste-logo/fc0b5c706b27.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TBMM_TV": {
+      "logoId": "TBMM_TV",
+      "title": "TBMM TV",
+      "tvgName": "TBMM TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png",
+      "localFile": "liste-logo/a57402c32b86.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TELE_NEWS": {
+      "logoId": "TELE_NEWS",
+      "title": "Tele News",
+      "tvgName": "Tele News",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/cc41a378-ea5d-42f6-a138-445e64284aad.png",
+      "localFile": "liste-logo/61b5dc96eb4a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TELE_NOVELA_TV": {
+      "logoId": "TELE_NOVELA_TV",
+      "title": "TELE NOVELA TV",
+      "tvgName": "TELE NOVELA TV",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/grBSqt4/novela.png",
+      "localFile": "liste-logo/cbbfdd0a6315.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TERS_KOSE": {
+      "logoId": "TERS_KOSE",
+      "title": "Ters Köşe",
+      "tvgName": "Ters Köşe",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TEST_1": {
+      "logoId": "TEST_1",
+      "title": "TEST 1",
+      "tvgName": "TEST 1",
+      "group": "TEST 1",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TGRT_BELGESEL": {
+      "logoId": "TGRT_BELGESEL",
+      "title": "TGRT Belgesel",
+      "tvgName": "TGRT Belgesel",
+      "group": "Belgesel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/22f97725-d582-42bb-a50a-e2437125558a.png",
+      "localFile": "liste-logo/e089a7555929.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TGRT_EU": {
+      "logoId": "TGRT_EU",
+      "title": "TGRT EU",
+      "tvgName": "TGRT EU",
+      "group": "Ulusal - Yurt Dışı",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/5a538084-161e-480f-9ec6-3b1acc1593e4.png",
+      "localFile": "liste-logo/89e999cc4afd.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TGRT_HABER": {
+      "logoId": "TGRT_HABER",
+      "title": "TGRT Haber",
+      "tvgName": "TGRT Haber",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/086cb48d-e5b6-4b79-94cd-725975dde567.png",
+      "localFile": "liste-logo/ecfd066e192d.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TIVI16": {
+      "logoId": "TIVI16",
+      "title": "Tivi16",
+      "tvgName": "Tivi16",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/921b0acf-b7e6-425a-977f-94ecdf4ae755.png",
+      "localFile": "liste-logo/1e977dcb7700.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TIVIBU_SPOR": {
+      "logoId": "TIVIBU_SPOR",
+      "title": "Tivibu Spor",
+      "tvgName": "Tivibu Spor",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png",
+      "localFile": "liste-logo/58c2486c71b4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TJK_TV": {
+      "logoId": "TJK_TV",
+      "title": "TJK TV",
+      "tvgName": "TJK TV",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/467af750-433b-4a59-86da-cf3d16014667.png",
+      "localFile": "liste-logo/f33cde3e3052.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TJK_TV_2": {
+      "logoId": "TJK_TV_2",
+      "title": "TJK TV 2",
+      "tvgName": "TJK TV 2",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/467af750-433b-4a59-86da-cf3d16014667.png",
+      "localFile": "liste-logo/f33cde3e3052.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TMB_TV": {
+      "logoId": "TMB_TV",
+      "title": "TMB TV",
+      "tvgName": "TMB TV",
+      "group": "Müzik",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/9eea23aa-c93d-4f88-aa68-bbb96473967f.png",
+      "localFile": "liste-logo/ab8e888b6080.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TOKAT_SUPER_TV": {
+      "logoId": "TOKAT_SUPER_TV",
+      "title": "Tokat Süper TV",
+      "tvgName": "Tokat Süper TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e02f4580-5766-4c2d-bd41-6ec35325215b.png",
+      "localFile": "liste-logo/44fe02347012.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TON_TV": {
+      "logoId": "TON_TV",
+      "title": "Ton TV",
+      "tvgName": "Ton TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6e74f3a0-ac78-479f-8c5a-feb38d42b61c.png",
+      "localFile": "liste-logo/2ea185e721fe.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TOPRAK_TV": {
+      "logoId": "TOPRAK_TV",
+      "title": "Toprak TV",
+      "tvgName": "Toprak TV",
+      "group": "Belgesel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/dd4da8fc-609f-4d05-8adb-9bba0f584738.png",
+      "localFile": "liste-logo/3acd910e2749.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TRACE_URBAN": {
+      "logoId": "TRACE_URBAN",
+      "title": "TRACE URBAN",
+      "tvgName": "TRACE URBAN",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/2hgmDs6/traceurb.png",
+      "localFile": "liste-logo/15ebeb72ee25.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TRT_4K": {
+      "logoId": "TRT_4K",
+      "title": "TRT 4K",
+      "tvgName": "TRT 4K",
+      "group": "",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TRT_AVAZ": {
+      "logoId": "TRT_AVAZ",
+      "title": "TRT Avaz",
+      "tvgName": "TRT Avaz",
+      "group": "Ulusal - Yurt Dışı",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/31f75bd0-47b3-4f22-be4f-d11ed0dbabeb.png",
+      "localFile": "liste-logo/5d7124ce1fa7.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TRT_DIYANET_COCUK": {
+      "logoId": "TRT_DIYANET_COCUK",
+      "title": "TRT Diyanet Çocuk",
+      "tvgName": "TRT Diyanet Çocuk",
+      "group": "Çocuk",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png",
+      "localFile": "liste-logo/27c256a71cb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TRT_EBA": {
+      "logoId": "TRT_EBA",
+      "title": "TRT EBA",
+      "tvgName": "TRT EBA",
+      "group": "Çocuk",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/98687328-412c-452d-a7ac-71fbbc329b5e.png",
+      "localFile": "liste-logo/f67514b6f57b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TRT_TURK": {
+      "logoId": "TRT_TURK",
+      "title": "TRT Türk",
+      "tvgName": "TRT Türk",
+      "group": "Ulusal - Yurt Dışı",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png",
+      "localFile": "liste-logo/aa81bb4b9736.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TURKHABER_TV": {
+      "logoId": "TURKHABER_TV",
+      "title": "Türkhaber TV",
+      "tvgName": "Türkhaber TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/87f43976-ee83-41ac-a187-0c30c434f7c3.png",
+      "localFile": "liste-logo/596a3efc04f9.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TURKISH_PRESS_TV": {
+      "logoId": "TURKISH_PRESS_TV",
+      "title": "Turkish Press TV",
+      "tvgName": "Turkish Press TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/978b5709-bce7-4501-9722-9db1292a894e.png",
+      "localFile": "liste-logo/beafc2eb2dea.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TURKIYE_KLINIKLERI": {
+      "logoId": "TURKIYE_KLINIKLERI",
+      "title": "Türkiye Klinikleri",
+      "tvgName": "Türkiye Klinikleri",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/33774b65-981e-43fb-a49d-689329bba59d.png",
+      "localFile": "liste-logo/4a581370ad1a.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TURKMENELI_TV": {
+      "logoId": "TURKMENELI_TV",
+      "title": "Türkmeneli TV",
+      "tvgName": "Türkmeneli TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/96a7e85f-a0e4-4ff9-b7fe-0ee1f43c831f.png",
+      "localFile": "liste-logo/ce13c9a3b85f.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TURSAB_TV": {
+      "logoId": "TURSAB_TV",
+      "title": "Türsab TV",
+      "tvgName": "Türsab TV",
+      "group": "Kurumlar",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/ded77a7d-ad44-4102-9b8b-114b6e294c99.png",
+      "localFile": "liste-logo/b56ea1ddf3dc.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TUZLA_HABERLERI_TV": {
+      "logoId": "TUZLA_HABERLERI_TV",
+      "title": "Tuzla Haberleri TV",
+      "tvgName": "Tuzla Haberleri TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4d3d1cc5-cf02-4067-8d1b-392350f58c18.png",
+      "localFile": "liste-logo/f4cb5dbeace1.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV1_KAYSERI": {
+      "logoId": "TV1_KAYSERI",
+      "title": "TV1 Kayseri",
+      "tvgName": "TV1 Kayseri",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/be164b84-9515-40c6-ae7d-f1700e33e17a.png",
+      "localFile": "liste-logo/e7d59509d0c5.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TVMOR": {
+      "logoId": "TVMOR",
+      "title": "TVMor",
+      "tvgName": "TVMor",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/3fbf44de-31bb-4aad-aa86-1e48f3d80855.png",
+      "localFile": "liste-logo/e3a0aeb676ba.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TVNET": {
+      "logoId": "TVNET",
+      "title": "TVNET",
+      "tvgName": "TVNET",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/1af160f1-276e-401f-9ecf-2157e05bf477.png",
+      "localFile": "liste-logo/083201205742.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_2020": {
+      "logoId": "TV_2020",
+      "title": "TV 2020",
+      "tvgName": "TV 2020",
+      "group": "Kıbrıs",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/94106af4-b8c4-4b07-9c29-dc9933755457.png",
+      "localFile": "liste-logo/3d31bdd2f6df.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_264": {
+      "logoId": "TV_264",
+      "title": "TV 264",
+      "tvgName": "TV 264",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/a664ab9a-1c43-4fa8-96b3-99da58649000.png",
+      "localFile": "liste-logo/2d8cd3b52b39.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_38": {
+      "logoId": "TV_38",
+      "title": "TV 38",
+      "tvgName": "TV 38",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d57cb5d8-26d1-4db9-9a58-2a63ae76f6f8.png",
+      "localFile": "liste-logo/cedaa60d8beb.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_4": {
+      "logoId": "TV_4",
+      "title": "TV 4",
+      "tvgName": "TV 4",
+      "group": "Eğlence",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png",
+      "localFile": "liste-logo/cdd205cd1859.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_41": {
+      "logoId": "TV_41",
+      "title": "TV 41",
+      "tvgName": "TV 41",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/d583bca7-5fbc-4213-92d7-9110f850ab29.png",
+      "localFile": "liste-logo/0745a4ef7d27.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_48": {
+      "logoId": "TV_48",
+      "title": "TV 48",
+      "tvgName": "TV 48",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7bdf6ed2-d256-4ca9-88e8-4a08d3f12a7a.png",
+      "localFile": "liste-logo/06ace9ac4295.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_5": {
+      "logoId": "TV_5",
+      "title": "TV 5",
+      "tvgName": "TV 5",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/058318fb-65bc-4ebd-8d52-add836f53ba9.png",
+      "localFile": "liste-logo/d566dafc9fcb.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_52": {
+      "logoId": "TV_52",
+      "title": "TV 52",
+      "tvgName": "TV 52",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/6c3eb41b-4957-4295-8502-8088e9754ee1.png",
+      "localFile": "liste-logo/72bce34abf84.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_DEN": {
+      "logoId": "TV_DEN",
+      "title": "TV DEN",
+      "tvgName": "TV DEN",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/5e035236-0bf0-49a4-8a61-d5cb0a2040d8.png",
+      "localFile": "liste-logo/5d6f1ccbcd96.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_KAYSERI": {
+      "logoId": "TV_KAYSERI",
+      "title": "TV Kayseri",
+      "tvgName": "TV Kayseri",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c3f73bc2-5272-409e-9311-f88b92033ec7.png",
+      "localFile": "liste-logo/f13d9649cb65.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TV_KENTIM": {
+      "logoId": "TV_KENTIM",
+      "title": "TV Kentim",
+      "tvgName": "TV Kentim",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b3247b72-7f09-4c23-994e-7ba15238e5c9.png",
+      "localFile": "liste-logo/2f88f6841bb6.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "TYT_TURK": {
+      "logoId": "TYT_TURK",
+      "title": "TYT Türk",
+      "tvgName": "TYT Türk",
+      "group": "Ulusal",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/b3857c25-e816-48b9-8348-a13ee436dba9.png",
+      "localFile": "liste-logo/ca31a2823e5b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ULKE_TV": {
+      "logoId": "ULKE_TV",
+      "title": "Ülke TV",
+      "tvgName": "Ülke TV",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c50e8be6-c873-4573-9f97-7ac4b76ba052.png",
+      "localFile": "liste-logo/d53a945512ed.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ULUSAL_KANAL": {
+      "logoId": "ULUSAL_KANAL",
+      "title": "Ulusal Kanal",
+      "tvgName": "Ulusal Kanal",
+      "group": "Haber",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/c75d260b-10d6-42c6-b69e-bf04f773cc9b.png",
+      "localFile": "liste-logo/6bf266822a1b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ULUSLARARASI_TV": {
+      "logoId": "ULUSLARARASI_TV",
+      "title": "Uluslararası TV",
+      "tvgName": "Uluslararası TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/e997a98d-c5a5-47f0-8882-ab2d9ed3fc80.png",
+      "localFile": "liste-logo/287a647df661.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "URETEN_TURKIYE_TV": {
+      "logoId": "URETEN_TURKIYE_TV",
+      "title": "Üreten Türkiye TV",
+      "tvgName": "Üreten Türkiye TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0845ecbe-6750-499f-a18c-7d2013f2c1e7.png",
+      "localFile": "liste-logo/4b38f8ee7273.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "URFANATIK_TV": {
+      "logoId": "URFANATIK_TV",
+      "title": "Urfanatik TV",
+      "tvgName": "Urfanatik TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f985ac5b-7b39-4b94-965f-1b169a6e3526.png",
+      "localFile": "liste-logo/577c09e455ed.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "VAN_GOLU_TV": {
+      "logoId": "VAN_GOLU_TV",
+      "title": "Van Gölü TV",
+      "tvgName": "Van Gölü TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/631c5e6c-6177-4076-822c-7cee63d36a97.png",
+      "localFile": "liste-logo/8dda5b9024f4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "VIYANA_TV": {
+      "logoId": "VIYANA_TV",
+      "title": "Viyana TV",
+      "tvgName": "Viyana TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f96ef417-bec2-401c-b7fe-bdc39eaab8b0.png",
+      "localFile": "liste-logo/1ef6b6dda8ff.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "VOX": {
+      "logoId": "VOX",
+      "title": "VOX",
+      "tvgName": "VOX",
+      "group": "VOX",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/056a2a81-a1f1-4cfd-91f7-35707f6144a2.png",
+      "localFile": "liste-logo/9681eb07ffb4.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "VRT_TV": {
+      "logoId": "VRT_TV",
+      "title": "VRT TV",
+      "tvgName": "VRT TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/8ca0d67a-b187-49b6-a0cb-3894c7858e8c.png",
+      "localFile": "liste-logo/d75534e954da.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "WILD_SIDE_TV": {
+      "logoId": "WILD_SIDE_TV",
+      "title": "WILD SIDE TV",
+      "tvgName": "WILD SIDE TV",
+      "group": "",
+      "originalLogoUrl": "https://i.ibb.co/VvMKr5V/wildside.jpg",
+      "localFile": "liste-logo/bfbebde3d9ad.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "WORLD_TURK": {
+      "logoId": "WORLD_TURK",
+      "title": "World Türk",
+      "tvgName": "World Türk",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/0f89fa71-8a00-4119-8495-1aec4ff008c1.png",
+      "localFile": "liste-logo/23e4f0b401b3.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "YABAN_TV": {
+      "logoId": "YABAN_TV",
+      "title": "Yaban TV",
+      "tvgName": "Yaban TV",
+      "group": "Belgesel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/4d5dbf1a-4524-4d11-8904-0c5c9fc4b7aa.png",
+      "localFile": "liste-logo/e20c83cfc5e3.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "YAGMURLU_TV": {
+      "logoId": "YAGMURLU_TV",
+      "title": "Yağmurlu TV",
+      "tvgName": "Yağmurlu TV",
+      "group": "Yerel",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/f70eb711-e5a1-4d20-b65c-ed75996975e0.png",
+      "localFile": "liste-logo/d07ee452a71b.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "YANSIMA_SINEMA_TV": {
+      "logoId": "YANSIMA_SINEMA_TV",
+      "title": "Yansıma Sinema TV",
+      "tvgName": "Yansıma Sinema TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/",
+      "localFile": "liste-logo/00b26cede799.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "YENICAG_TV": {
+      "logoId": "YENICAG_TV",
+      "title": "Yeniçağ TV",
+      "tvgName": "Yeniçağ TV",
+      "group": "Diğer",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/9bfc415f-86c6-4363-b08c-ef710a9d0f65.png",
+      "localFile": "liste-logo/3799b1698860.png",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "YESILCAM": {
+      "logoId": "YESILCAM",
+      "title": "Yesilcam",
+      "tvgName": "Yesilcam",
+      "group": "Sinema",
+      "originalLogoUrl": "https://www.kinoundco.de/image/posters/aZc6TRH9jQe0swUcVAk1lx8OAEe.jpg",
+      "localFile": "liste-logo/206e3fc01b89.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "YESILCAM_2": {
+      "logoId": "YESILCAM_2",
+      "title": "Yesilcam 2",
+      "tvgName": "Yesilcam 2",
+      "group": "Sinema",
+      "originalLogoUrl": "https://www.kinoundco.de/image/posters/aZc6TRH9jQe0swUcVAk1lx8OAEe.jpg",
+      "localFile": "liste-logo/206e3fc01b89.jpg",
+      "usedCount": 1,
+      "downloaded": false
+    },
+    "ZTK_TV": {
+      "logoId": "ZTK_TV",
+      "title": "ZTK TV",
+      "tvgName": "ZTK TV",
+      "group": "Spor",
+      "originalLogoUrl": "https://assets.uzunmuhalefet.com/logos/7e78574b-3f13-443d-859a-9948e7bc4381.png",
+      "localFile": "liste-logo/5d3240f46c72.png",
+      "usedCount": 1,
+      "downloaded": false
+    }
+  }
+}
