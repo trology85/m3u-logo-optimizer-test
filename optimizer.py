@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import hashlib
+import gzip
 import json
 import mimetypes
 import os
@@ -133,13 +134,20 @@ def add_x_logo_source(line: str, source_name: str) -> str:
 
 def find_latest_input(input_dir: Path) -> Optional[Path]:
     candidates = []
-    for pattern in ('*.m3u', '*.m3u8'):
+    for pattern in ('*.m3u', '*.m3u8', '*.m3u.gz', '*.m3u8.gz', '*.gz'):
         candidates.extend(input_dir.glob(pattern))
     candidates = [p for p in candidates if p.is_file()]
     if not candidates:
         return None
     return max(candidates, key=lambda p: p.stat().st_mtime)
 
+
+
+
+def open_input_binary(input_path: Path):
+    if input_path.name.lower().endswith('.gz'):
+        return gzip.open(input_path, 'rb')
+    return input_path.open('rb')
 
 def read_text_line(line_bytes: bytes) -> str:
     # Büyük ve karışık listelerde kırılmadan devam etmek için toleranslı decode.
@@ -206,7 +214,8 @@ def optimize(
 
     stats = {
         'inputFile': str(input_path),
-        'inputBytes': input_path.stat().st_size if input_path.exists() else 0,
+        'uploadedBytes': input_path.stat().st_size if input_path.exists() else 0,
+        'inputBytes': 0,
         'totalLines': 0,
         'extinfLines': 0,
         'streamLines': 0,
@@ -222,10 +231,11 @@ def optimize(
 
     current_extinf_had_logo = False
 
-    with input_path.open('rb') as src, output_m3u.open('w', encoding='utf-8', newline='\n') as out:
+    with open_input_binary(input_path) as src, output_m3u.open('w', encoding='utf-8', newline='\n') as out:
         first_line_done = False
         for raw in src:
             stats['totalLines'] += 1
+            stats['inputBytes'] += len(raw)
             line = read_text_line(raw).rstrip('\r\n')
 
             if not first_line_done:
@@ -310,6 +320,13 @@ def optimize(
     stats['savedBytesInM3U'] = max(0, int(stats['inputBytes']) - int(stats['outputBytes']))
     stats['finishedAt'] = now_iso()
 
+    if source_name.startswith('http://') or source_name.startswith('https://'):
+        raw_base = source_name.rsplit('/', 1)[0]
+        for item in items.values():
+            local_file = str(item.get('localFile', ''))
+            if local_file:
+                item['githubRawUrl'] = f'{raw_base}/{local_file}'
+
     logo_json = {
         'schema': 'logo-manager-list-logo-source-v1',
         'sourceM3U': input_path.name,
@@ -335,7 +352,7 @@ def optimize(
 
 def main(argv: Optional[List[str]] = None) -> int:
     parser = argparse.ArgumentParser(description='M3U tvg-logo -> x-logo-source + logo-id optimizer')
-    parser.add_argument('input', nargs='?', help='M3U input path. Boşsa input/ içindeki en yeni .m3u kullanılır.')
+    parser.add_argument('input', nargs='?', help='M3U input path. .m3u, .m3u8 veya .gz olabilir. Boşsa input/ içindeki en yeni dosya kullanılır.')
     parser.add_argument('--output-dir', default='output')
     parser.add_argument('--logo-dir', default='liste-logo')
     parser.add_argument('--logo-json', default='liste-logolar.json')
