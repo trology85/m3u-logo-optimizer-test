@@ -58,17 +58,19 @@ jobs:
           else
             latest=$(ls -t input/*.m3u input/*.m3u8 2>/dev/null | head -n 1 || true)
             if [ -z "$latest" ]; then
-              echo "No input M3U found in input/" >&2
-              exit 1
+              echo "No input M3U found in input/. Waiting for panel upload."
+              exit 0
             fi
             echo "input=$latest" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Optimize
+        if: ${{ steps.pick.outputs.input != '' }}
         shell: bash
         env:
           MAX_DOWNLOADS: ${{ github.event.inputs.max_downloads || '0' }}
         run: |
+          echo "x-logo-source will be: https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/refs/heads/${GITHUB_REF_NAME}/liste-logolar.json"
           if [ "${{ github.event.inputs.download_logos || 'true' }}" = "false" ]; then
             python optimizer.py "${{ steps.pick.outputs.input }}" --no-download
           else
@@ -76,6 +78,7 @@ jobs:
           fi
 
       - name: Commit outputs
+        if: ${{ steps.pick.outputs.input != '' }}
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
