@@ -1,0 +1,89 @@
+name: Optimize M3U Logos
+
+on:
+  workflow_dispatch:
+    inputs:
+      input_file:
+        description: 'input klasöründeki M3U yolu. Boşsa en yeni input/*.m3u kullanılır.'
+        required: false
+        default: ''
+      download_logos:
+        description: 'Benzersiz tvg-logo dosyalarını liste-logo klasörüne indir'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      max_downloads:
+        description: 'İlk test için indirme limiti. 0 = limitsiz'
+        required: true
+        default: '0'
+  push:
+    paths:
+      - 'input/*.m3u'
+      - 'input/*.m3u8'
+      - 'optimizer.py'
+      - '.github/workflows/optimize.yml'
+
+permissions:
+  contents: write
+
+env:
+  MAX_WORKERS: '8'
+  REQUEST_TIMEOUT: '20'
+  MAX_LOGO_BYTES: '8000000'
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Pick input file
+        id: pick
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.input_file }}" ]; then
+            echo "input=${{ github.event.inputs.input_file }}" >> "$GITHUB_OUTPUT"
+          else
+            latest=$(ls -t input/*.m3u input/*.m3u8 2>/dev/null | head -n 1 || true)
+            if [ -z "$latest" ]; then
+              echo "No input M3U found in input/" >&2
+              exit 1
+            fi
+            echo "input=$latest" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Optimize
+        shell: bash
+        env:
+          MAX_DOWNLOADS: ${{ github.event.inputs.max_downloads || '0' }}
+        run: |
+          if [ "${{ github.event.inputs.download_logos || 'true' }}" = "false" ]; then
+            python optimizer.py "${{ steps.pick.outputs.input }}" --no-download
+          else
+            python optimizer.py "${{ steps.pick.outputs.input }}" --max-downloads "${MAX_DOWNLOADS}"
+          fi
+
+      - name: Commit outputs
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/ liste-logo/ liste-logolar.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Optimize M3U logo source"
+            git push
+          fi
