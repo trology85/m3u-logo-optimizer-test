@@ -77,7 +77,7 @@
         <div class="drop" id="drop">
           <strong>M3U dosyasını buraya bırak</strong>
           <span>veya tıklayıp seç. Büyük listelerde yükleme biraz sürebilir.</span>
-          <input id="file" type="file" accept=".m3u,.m3u8,text/plain" style="display:none" />
+          <input id="file" type="file" accept=".m3u,.m3u8,.gz,text/plain,application/gzip" style="display:none" />
         </div>
         <div class="progress"><div class="bar" id="bar"></div></div>
         <div class="actions">
@@ -144,8 +144,21 @@ function arrayBufferToBase64(buffer) {
   }
   return btoa(binary);
 }
+async function gzipFile(file) {
+  // Büyük M3U listeleri GitHub API'ye düz metin gönderilince şişer.
+  // CompressionStream destekleyen tarayıcılarda önce .gz yapıp yükleriz.
+  if (file.name.toLowerCase().endsWith('.gz')) {
+    return { buffer: await file.arrayBuffer(), fileName: file.name, compressed: false, originalSize: file.size, gzSize: file.size };
+  }
+  if (!('CompressionStream' in window)) {
+    throw new Error('Bu tarayıcıda GZIP sıkıştırma desteklenmiyor. Chrome/Edge ile deneyin veya dosyayı .gz yapıp yükleyin.');
+  }
+  const gzStream = file.stream().pipeThrough(new CompressionStream('gzip'));
+  const gzBuffer = await new Response(gzStream).arrayBuffer();
+  return { buffer: gzBuffer, fileName: file.name + '.gz', compressed: true, originalSize: file.size, gzSize: gzBuffer.byteLength };
+}
 function safeName(name) {
-  const base = name.replace(/[^A-Za-z0-9._-]+/g, '_').replace(/^_+|_+$/g, '') || 'uploaded.m3u';
+  const base = name.replace(/[^A-Za-z0-9._-]+/g, '_').replace(/^_+|_+$/g, '') || 'uploaded.m3u.gz';
   const stamp = new Date().toISOString().replace(/[-:T.Z]/g,'').slice(0,14);
   return `input/${stamp}_${base}`;
 }
@@ -153,20 +166,31 @@ async function uploadFileAndRun() {
   const cfg = getCfg();
   if (!selectedFile) return setStatus('uploadStatus', 'Önce M3U dosyası seç.');
   setProgress(5);
-  setStatus('uploadStatus', `Dosya okunuyor: ${selectedFile.name} (${(selectedFile.size/1024/1024).toFixed(2)} MB)`);
-  const buf = await selectedFile.arrayBuffer();
-  setProgress(35);
-  const content = arrayBufferToBase64(buf);
-  const path = safeName(selectedFile.name);
-  setStatus('uploadStatus', `GitHub'a yükleniyor: ${path}`);
+  setStatus('uploadStatus', `Dosya hazırlanıyor: ${selectedFile.name} (${(selectedFile.size/1024/1024).toFixed(2)} MB)`);
+
+  const packed = await gzipFile(selectedFile);
+  setProgress(30);
+  const ratio = packed.originalSize ? ((1 - (packed.gzSize / packed.originalSize)) * 100).toFixed(1) : '0.0';
+  const packMsg = packed.compressed
+    ? `GZIP hazır: ${(packed.originalSize/1024/1024).toFixed(2)} MB → ${(packed.gzSize/1024/1024).toFixed(2)} MB (%${ratio} küçüldü)`
+    : `GZIP dosyası seçildi: ${(packed.gzSize/1024/1024).toFixed(2)} MB`;
+  setStatus('uploadStatus', packMsg + '
+Base64 hazırlanıyor...');
+
+  const content = arrayBufferToBase64(packed.buffer);
+  setProgress(55);
+  const path = safeName(packed.fileName);
+  setStatus('uploadStatus', `${packMsg}
+GitHub'a yükleniyor: ${path}`);
   await gh(`/contents/${encodeURIComponent(path).replaceAll('%2F','/')}?ref=${encodeURIComponent(cfg.branch)}`, {
     method: 'PUT',
-    body: JSON.stringify({ message: `Upload M3U: ${selectedFile.name}`, content, branch: cfg.branch })
+    body: JSON.stringify({ message: `Upload compressed M3U: ${packed.fileName}`, content, branch: cfg.branch })
   });
-  setProgress(70);
-  await dispatchWorkflow(path);
   setProgress(100);
-  setStatus('uploadStatus', `Yüklendi ve workflow başlatıldı:\n${path}\n\nGitHub Actions tamamlanınca çıktıları okuyabilirsin.`);
+  setStatus('uploadStatus', `Yüklendi:
+${path}
+
+Workflow push tetiklemesiyle otomatik başlamalı. GitHub Actions sekmesinden takip et. Başlamazsa “Sadece Workflow Başlat” butonuna basabilirsin.`);
   renderLinks();
 }
 async function dispatchWorkflow(inputPath='') {
