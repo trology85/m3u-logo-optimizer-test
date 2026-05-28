@@ -185,6 +185,7 @@ def optimize(
     output_dir: Path,
     logo_dir: Path,
     logo_json_path: Path,
+    x_logo_source: Optional[str] = None,
     download_logos: bool = True,
     max_downloads: int = 0,
     max_workers: int = 8,
@@ -196,7 +197,7 @@ def optimize(
 
     output_m3u = output_dir / 'optimized.m3u'
     report_path = output_dir / 'report.json'
-    source_name = logo_json_path.name
+    source_name = x_logo_source or logo_json_path.name
 
     used_ids: Dict[str, str] = {}
     url_to_local: Dict[str, str] = {}
@@ -339,6 +340,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     parser.add_argument('--logo-dir', default='liste-logo')
     parser.add_argument('--logo-json', default='liste-logolar.json')
     parser.add_argument('--no-download', action='store_true', help='Logo indirme; sadece JSON ve M3U üret.')
+    parser.add_argument('--x-logo-source', default=os.getenv('X_LOGO_SOURCE', ''), help='M3U #EXTM3U satırına yazılacak x-logo-source adresi. Boşsa GitHub Actions içinde raw link otomatik üretilir.')
     parser.add_argument('--max-downloads', type=int, default=int(os.getenv('MAX_DOWNLOADS', '0')), help='0 = limitsiz')
     parser.add_argument('--workers', type=int, default=int(os.getenv('MAX_WORKERS', '8')))
     parser.add_argument('--timeout', type=int, default=int(os.getenv('REQUEST_TIMEOUT', '20')))
@@ -353,11 +355,19 @@ def main(argv: Optional[List[str]] = None) -> int:
         print(f'HATA: Dosya bulunamadı: {input_path}', file=sys.stderr)
         return 2
 
+    x_logo_source = args.x_logo_source.strip()
+    if not x_logo_source:
+        repo = os.getenv('GITHUB_REPOSITORY', '').strip()
+        branch = os.getenv('GITHUB_REF_NAME', '').strip() or 'main'
+        if repo:
+            x_logo_source = f'https://raw.githubusercontent.com/{repo}/refs/heads/{branch}/{args.logo_json}'
+
     stats = optimize(
         input_path=input_path,
         output_dir=Path(args.output_dir),
         logo_dir=Path(args.logo_dir),
         logo_json_path=Path(args.logo_json),
+        x_logo_source=x_logo_source or None,
         download_logos=not args.no_download,
         max_downloads=args.max_downloads,
         max_workers=args.workers,
