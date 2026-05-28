@@ -23,6 +23,9 @@ on:
     paths:
       - 'input/*.m3u'
       - 'input/*.m3u8'
+      - 'input/*.m3u.gz'
+      - 'input/*.m3u8.gz'
+      - 'input/*.gz'
       - 'optimizer.py'
       - '.github/workflows/optimize.yml'
 
@@ -56,7 +59,7 @@ jobs:
           if [ -n "${{ github.event.inputs.input_file }}" ]; then
             echo "input=${{ github.event.inputs.input_file }}" >> "$GITHUB_OUTPUT"
           else
-            latest=$(ls -t input/*.m3u input/*.m3u8 2>/dev/null | head -n 1 || true)
+            latest=$(ls -t input/*.m3u input/*.m3u8 input/*.m3u.gz input/*.m3u8.gz input/*.gz 2>/dev/null | head -n 1 || true)
             if [ -z "$latest" ]; then
               echo "No input M3U found in input/. Waiting for panel upload."
               exit 0
