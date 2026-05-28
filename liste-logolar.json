@@ -1,8 +1,8 @@
 {
   "schema": "logo-manager-list-logo-source-v1",
   "sourceM3U": "20260528042945_SC_PLAYER_SC_PLAYER_QWERT_-_Kopyaaaaaa_m3u_20260502__20260514_055241.m3u",
-  "createdAt": "2026-05-28T04:29:53.732023Z",
-  "updatedAt": "2026-05-28T04:29:53.766251Z",
+  "createdAt": "2026-05-28T04:30:41.045648Z",
+  "updatedAt": "2026-05-28T04:30:54.655738Z",
   "xLogoSource": "https://raw.githubusercontent.com/trology85/m3u-logo-optimizer-test/refs/heads/main/liste-logolar.json",
   "logoFolder": "liste-logo",
   "outputM3U": "output/optimized.m3u",
@@ -16,13 +16,13 @@
     "noLogoExtinfLines": 102,
     "uniqueLogoUrls": 292,
     "items": 312,
-    "downloaded": 0,
-    "downloadFailed": 0,
-    "skippedDownload": 292,
-    "startedAt": "2026-05-28T04:29:53.732023Z",
+    "downloaded": 17,
+    "downloadFailed": 275,
+    "skippedDownload": 0,
+    "startedAt": "2026-05-28T04:30:41.045648Z",
     "outputBytes": 71358,
     "savedBytesInM3U": 20823,
-    "finishedAt": "2026-05-28T04:29:53.766251Z"
+    "finishedAt": "2026-05-28T04:30:54.655738Z"
   },
   "items": {
     "1TVTR": {
@@ -153,7 +153,7 @@
       "originalLogoUrl": "https://i.ibb.co/2SHJGsj/allocine.png",
       "localFile": "liste-logo/728b848b3e0c.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "ALMANYA_TV": {
       "logoId": "ALMANYA_TV",
@@ -213,7 +213,7 @@
       "originalLogoUrl": "https://i.ibb.co/9GHhm6L/ant1ro.png",
       "localFile": "liste-logo/6ffb9efcbaf1.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "ARAS_TV": {
       "logoId": "ARAS_TV",
@@ -343,7 +343,7 @@
       "originalLogoUrl": "https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g=s160-c-k-c0x00ffffff-no-rj",
       "localFile": "liste-logo/c765fbe49a15.jpg",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "BENGUTURK_TV": {
       "logoId": "BENGUTURK_TV",
@@ -593,7 +593,7 @@
       "originalLogoUrl": "https://i.ibb.co/M5P1TMG/clubbing.png",
       "localFile": "liste-logo/2722b144e8f3.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "CNN_TURK": {
       "logoId": "CNN_TURK",
@@ -1053,7 +1053,7 @@
       "originalLogoUrl": "https://i.ibb.co/g3YTn6c/geneok.png",
       "localFile": "liste-logo/251b65dd4854.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "GOPSEN_TV": {
       "logoId": "GOPSEN_TV",
@@ -1083,7 +1083,7 @@
       "originalLogoUrl": "https://i.ibb.co/RN3dJQ7/geoflag.png",
       "localFile": "liste-logo/6e1aae6fc1a1.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "GPB_2TV": {
       "logoId": "GPB_2TV",
@@ -1093,7 +1093,7 @@
       "originalLogoUrl": "https://i.ibb.co/RN3dJQ7/geoflag.png",
       "localFile": "liste-logo/6e1aae6fc1a1.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "GRT_TV": {
       "logoId": "GRT_TV",
@@ -1253,7 +1253,7 @@
       "originalLogoUrl": "https://i.ibb.co/RN3dJQ7/geoflag.png",
       "localFile": "liste-logo/6e1aae6fc1a1.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "IZMIR_TIME_35_TV": {
       "logoId": "IZMIR_TIME_35_TV",
@@ -2353,7 +2353,7 @@
       "originalLogoUrl": "https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png",
       "localFile": "liste-logo/06551baefefa.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "SINEMA_AILE_2": {
       "logoId": "SINEMA_AILE_2",
@@ -2363,7 +2363,7 @@
       "originalLogoUrl": "https://img.dsmartgo.com.tr/content/e/Mq/22898/Thumbnail.png",
       "localFile": "liste-logo/a26ab561cc36.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "SINEMA_AKSIYON": {
       "logoId": "SINEMA_AKSIYON",
@@ -2373,7 +2373,7 @@
       "originalLogoUrl": "https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png",
       "localFile": "liste-logo/ef3b5253f6c9.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "SINEMA_AKSIYON_2": {
       "logoId": "SINEMA_AKSIYON_2",
@@ -2383,7 +2383,7 @@
       "originalLogoUrl": "https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png",
       "localFile": "liste-logo/b5d15e9f76c1.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "SINEMA_KOMEDI": {
       "logoId": "SINEMA_KOMEDI",
@@ -2393,7 +2393,7 @@
       "originalLogoUrl": "https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png",
       "localFile": "liste-logo/68c3044a8c72.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "SINEMA_KOMEDI_2": {
       "logoId": "SINEMA_KOMEDI_2",
@@ -2403,7 +2403,7 @@
       "originalLogoUrl": "https://img.dsmartgo.com.tr/content/o/oG/22900/Thumbnail.png",
       "localFile": "liste-logo/c78bb3a6cebe.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "SITELER_TV": {
       "logoId": "SITELER_TV",
@@ -2423,7 +2423,7 @@
       "originalLogoUrl": "https://i.ibb.co/df2r3NS/skai.jpg",
       "localFile": "liste-logo/fd15f8ad99b6.jpg",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "SONG_TV": {
       "logoId": "SONG_TV",
@@ -2563,7 +2563,7 @@
       "originalLogoUrl": "https://i.ibb.co/grBSqt4/novela.png",
       "localFile": "liste-logo/cbbfdd0a6315.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "TERS_KOSE": {
       "logoId": "TERS_KOSE",
@@ -2703,7 +2703,7 @@
       "originalLogoUrl": "https://i.ibb.co/2hgmDs6/traceurb.png",
       "localFile": "liste-logo/15ebeb72ee25.png",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "TRT_4K": {
       "logoId": "TRT_4K",
@@ -3063,7 +3063,7 @@
       "originalLogoUrl": "https://i.ibb.co/VvMKr5V/wildside.jpg",
       "localFile": "liste-logo/bfbebde3d9ad.jpg",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "WORLD_TURK": {
       "logoId": "WORLD_TURK",
@@ -3123,7 +3123,7 @@
       "originalLogoUrl": "https://www.kinoundco.de/image/posters/aZc6TRH9jQe0swUcVAk1lx8OAEe.jpg",
       "localFile": "liste-logo/206e3fc01b89.jpg",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "YESILCAM_2": {
       "logoId": "YESILCAM_2",
@@ -3133,7 +3133,7 @@
       "originalLogoUrl": "https://www.kinoundco.de/image/posters/aZc6TRH9jQe0swUcVAk1lx8OAEe.jpg",
       "localFile": "liste-logo/206e3fc01b89.jpg",
       "usedCount": 1,
-      "downloaded": false
+      "downloaded": true
     },
     "ZTK_TV": {
       "logoId": "ZTK_TV",
