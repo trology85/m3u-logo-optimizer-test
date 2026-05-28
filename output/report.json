@@ -9,14 +9,2416 @@
     "noLogoExtinfLines": 102,
     "uniqueLogoUrls": 292,
     "items": 312,
-    "downloaded": 0,
-    "downloadFailed": 0,
-    "skippedDownload": 292,
-    "startedAt": "2026-05-28T04:14:59.944909Z",
-    "outputBytes": 71274,
-    "savedBytesInM3U": 20907,
-    "finishedAt": "2026-05-28T04:14:59.972763Z"
+    "downloaded": 17,
+    "downloadFailed": 275,
+    "skippedDownload": 0,
+    "startedAt": "2026-05-28T04:23:38.595541Z",
+    "outputBytes": 71358,
+    "savedBytesInM3U": 20823,
+    "finishedAt": "2026-05-28T04:23:59.237028Z"
   },
-  "downloadResultsSample": [],
-  "failedDownloadsSample": []
+  "downloadResultsSample": [
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b3857c25-e816-48b9-8348-a13ee436dba9.png",
+      "path": "liste-logo/ca31a2823e5b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/abea6219-cabb-4af4-8ddb-6b8925ffa62f.png",
+      "path": "liste-logo/d99d2fa85f76.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f96ef417-bec2-401c-b7fe-bdc39eaab8b0.png",
+      "path": "liste-logo/1ef6b6dda8ff.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4ca348c7-1037-4dd6-8ba6-a5d5e4fc53e1.png",
+      "path": "liste-logo/a77c6c560a77.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f7ec78f8-43d2-4117-913a-7f45893d6774.png",
+      "path": "liste-logo/44ad0a636067.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7a738603-0533-4cb2-a3cf-766aedb31b21.png",
+      "path": "liste-logo/9104426aa488.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/98251a7c-ceee-4d00-b15d-b583418e50e6.png",
+      "path": "liste-logo/cf0881efa694.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b3aa542e-ea0a-4440-abd7-9cab98fb9b1a.png",
+      "path": "liste-logo/b7c1f8ea5281.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/6ac77b6a-6e58-49e8-8e76-bc57fdbbd13f.png",
+      "path": "liste-logo/9cf85195c9b2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/086cb48d-e5b6-4b79-94cd-725975dde567.png",
+      "path": "liste-logo/ecfd066e192d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/98474191-bf00-43a0-b189-03f970e4566c.png",
+      "path": "liste-logo/222c795a9c3f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c50e8be6-c873-4573-9f97-7ac4b76ba052.png",
+      "path": "liste-logo/d53a945512ed.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png",
+      "path": "liste-logo/b4942390e41f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d8e81779-a0c6-4202-8f47-5315d34e395c.png",
+      "path": "liste-logo/2dc58f53eca4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f16de70e-9de7-4b41-937f-11a65fb2932d.png",
+      "path": "liste-logo/6fc1399fac41.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/76175b6c-2a79-4fcd-89d5-026c4e76edb1.png",
+      "path": "liste-logo/9ef3898f431f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1af160f1-276e-401f-9ecf-2157e05bf477.png",
+      "path": "liste-logo/083201205742.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9b729d49-2367-415b-a5e4-35c47ffaf59f.png",
+      "path": "liste-logo/b7473a5b28a7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c75d260b-10d6-42c6-b69e-bf04f773cc9b.png",
+      "path": "liste-logo/6bf266822a1b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/058318fb-65bc-4ebd-8d52-add836f53ba9.png",
+      "path": "liste-logo/d566dafc9fcb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/48705266-7426-492a-a091-f2e599ba7a36.png",
+      "path": "liste-logo/33849f50ee64.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3ec303e0-dabd-4b43-b396-e816a7ed7e43.png",
+      "path": "liste-logo/36d2e0e07378.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b9a8635c-848b-49f7-ad7f-0b7fd2efe2eb.png",
+      "path": "liste-logo/9765bc63f4c3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png",
+      "path": "liste-logo/a57402c32b86.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png",
+      "path": "liste-logo/aa81bb4b9736.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/31f75bd0-47b3-4f22-be4f-d11ed0dbabeb.png",
+      "path": "liste-logo/5d7124ce1fa7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png",
+      "path": "liste-logo/e0acb93dd7dd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png",
+      "path": "liste-logo/d81286158723.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5a538084-161e-480f-9ec6-3b1acc1593e4.png",
+      "path": "liste-logo/89e999cc4afd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9d451286-3aa1-44ca-9936-1a16d8550ed7.png",
+      "path": "liste-logo/8a2f53cf4552.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ba21c671-ff84-4bf0-97b5-8b326291d36b.png",
+      "path": "liste-logo/67cabc2b4e5d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/144ddf6c-e2df-4725-a292-3400c3216ad8.png",
+      "path": "liste-logo/a513d5bfc5bf.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e31b4e7f-7a0f-43dc-ab5c-57b2c373de96.png",
+      "path": "liste-logo/69fc2e8f0de7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e25527ce-8f1b-4ff5-a847-db2601a0ea56.png",
+      "path": "liste-logo/5d664c84f962.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png",
+      "path": "liste-logo/5be52bb74e8a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dbf9df04-b521-4d47-a165-776102d7ee93.png",
+      "path": "liste-logo/51da8a794b03.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f24d133d-940f-49b9-9ea1-2ac2d48f5b99.png",
+      "path": "liste-logo/66b2e0d5ccf2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png",
+      "path": "liste-logo/c73e81da9da3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png",
+      "path": "liste-logo/cdd205cd1859.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b50865cd-24e3-4a24-9c10-cf61573b6320.png",
+      "path": "liste-logo/0a2ddc5f17dc.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9c62b6fd-db6c-450b-bbf3-352868d50eba.png",
+      "path": "liste-logo/3c587ec15bf8.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png",
+      "path": "liste-logo/4109bc35649e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/935e306b-8134-4672-80c3-9487b0f021a0.png",
+      "path": "liste-logo/93ddc7f35f6e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png",
+      "path": "liste-logo/682660be327c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png",
+      "path": "liste-logo/bc511c85502a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1e9a70ac-702b-4f1a-b882-1ba795b75aa8.png",
+      "path": "liste-logo/1a16a4ea1e41.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png",
+      "path": "liste-logo/e27a919e0aeb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png",
+      "path": "liste-logo/58c2486c71b4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c49e30f3-5917-452e-93ae-56886a8e8b04.png",
+      "path": "liste-logo/d1fbd1b4e883.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/467af750-433b-4a59-86da-cf3d16014667.png",
+      "path": "liste-logo/f33cde3e3052.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3446fb88-4fb6-4e6f-aa5d-9eed92efbb97.png",
+      "path": "liste-logo/177cd9efe2aa.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/209495ee-35fc-47b8-b442-f9a410110970.png",
+      "path": "liste-logo/ce9e14f60396.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7e78574b-3f13-443d-859a-9948e7bc4381.png",
+      "path": "liste-logo/5d3240f46c72.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/2bb603cc-f72e-484e-8c70-98f82cc7529d.png",
+      "path": "liste-logo/2d545ee5b8e2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b6441709-2184-4419-9203-8efb784857ca.png",
+      "path": "liste-logo/201863fbb576.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/358e2281-a615-4bfb-92e1-1f093756234a.png",
+      "path": "liste-logo/412be0ee5375.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/528ca8db-dba9-4db0-ba1a-949a8aab2eb7.png",
+      "path": "liste-logo/15014ca78811.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/044cbc2d-7166-4871-8c7d-041345310d22.png",
+      "path": "liste-logo/19a77c00bc90.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1dc650d4-0a3f-4f97-bdb2-4cf01cef8e0a.png",
+      "path": "liste-logo/9515ff6dff70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9eea23aa-c93d-4f88-aa68-bbb96473967f.png",
+      "path": "liste-logo/ab8e888b6080.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/58493332-d1cb-4c24-997b-dbfa400937b2.png",
+      "path": "liste-logo/600ea7616367.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dd255f1a-1e71-408e-8ac5-19db39acadea.png",
+      "path": "liste-logo/122da2c3f67c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8cfeaa96-8d4d-4d39-b6bf-9ec665e6a6c6.png",
+      "path": "liste-logo/11ebc83a4b70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/87bee649-ffb8-4917-9487-29b41c896ce9.png",
+      "path": "liste-logo/40292cec4422.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/eaf30d27-3609-4b54-b9fa-089e8d6b6c88.png",
+      "path": "liste-logo/17ec210aaca2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/fe34c8f3-f6cc-41ea-9a84-c61b44272f36.png",
+      "path": "liste-logo/2832fd9ae470.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ef919dd3-2189-445e-aa3c-3f5422309528.png",
+      "path": "liste-logo/f967c5a4d9fe.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/be8bda8e-17da-40b5-9d7e-1591b6cf06e9.png",
+      "path": "liste-logo/f15cea86faa8.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/447891c4-97c1-4692-99be-7adc74dbfe58.png",
+      "path": "liste-logo/5c321402d217.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c7b43467-b3b4-4f56-b0c8-e8442de03807.png",
+      "path": "liste-logo/242bce0c64b1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/05f87412-5cd3-41ee-9874-66e41121c6eb.png",
+      "path": "liste-logo/4a0a8cd5a71c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/22f97725-d582-42bb-a50a-e2437125558a.png",
+      "path": "liste-logo/e089a7555929.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png",
+      "path": "liste-logo/339f25710fb1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4d5dbf1a-4524-4d11-8904-0c5c9fc4b7aa.png",
+      "path": "liste-logo/e20c83cfc5e3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0a4992bf-7c3d-41ae-aa0d-e44ecb1ac0cb.png",
+      "path": "liste-logo/227b932772d9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/592f509e-2e57-445f-833c-e3388ae88120.png",
+      "path": "liste-logo/1a07111578d2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dd4da8fc-609f-4d05-8adb-9bba0f584738.png",
+      "path": "liste-logo/3acd910e2749.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ed12053a-f7cb-42f8-a9bb-26e1e992ea99.png",
+      "path": "liste-logo/544fe2c5339b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png",
+      "path": "liste-logo/27c256a71cb4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/98687328-412c-452d-a7ac-71fbbc329b5e.png",
+      "path": "liste-logo/f67514b6f57b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7be5925e-181a-4c4c-96c0-9cd4ec14caea.png",
+      "path": "liste-logo/8373520df99f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png",
+      "path": "liste-logo/7495ed74445a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png",
+      "path": "liste-logo/3c65fbfd2682.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0bbe8ea1-7fa3-402d-8e96-1836077458d7.png",
+      "path": "liste-logo/733064af2646.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3ad1c386-1f55-4d2a-b94e-a9c17dd01912.png",
+      "path": "liste-logo/6a0d98920678.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4f326473-7ee6-40a1-b848-4512dc28b5d6.png",
+      "path": "liste-logo/7c1d6daa7b70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0ac415bb-a1c6-494b-81d4-f92f3161c94f.png",
+      "path": "liste-logo/8df27e1a9e70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/feb106f8-f8a2-41bf-bd0b-9b79eea6e49c.png",
+      "path": "liste-logo/e632a788c8db.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b74b51a2-0659-45a5-8c82-2f3ed680eca4.png",
+      "path": "liste-logo/547ba9d32ebd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b901ba7e-2e39-4d70-996e-7df966779a05.png",
+      "path": "liste-logo/276b58cbcf2d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b0c4eabe-d127-41e6-abc7-5180bb7000df.png",
+      "path": "liste-logo/8cc20f0b5cf3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/a16de706-98e3-4188-8130-e4eee7c616aa.png",
+      "path": "liste-logo/871d8666ae53.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5faee5ba-3a15-4b59-960e-ea10d983273b.png",
+      "path": "liste-logo/bba01882d2c5.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7b9d9a59-51ac-4988-b52a-2c23c0b35cff.png",
+      "path": "liste-logo/652f38f0f105.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/",
+      "path": "liste-logo/00b26cede799.jpg",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/57456c5a-8598-48bc-b003-97a98cfb62d9.png",
+      "path": "liste-logo/503e2b7d0cb9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f9b17518-eb05-4276-98b9-f1267b40c923.png",
+      "path": "liste-logo/d892765a5a4f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4920ca5c-2ac3-4cbb-aea8-4410969b0d6f.png",
+      "path": "liste-logo/73447a69cee7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dfa107f7-5236-46d9-a3c7-2f75ef72f103.png",
+      "path": "liste-logo/6890d3387ded.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ae341ef8-cb12-4f0d-9141-f51697cde227.png",
+      "path": "liste-logo/a8e4f9d6de30.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0d799f92-d997-4a04-8a3b-3fbea0a6b3aa.png",
+      "path": "liste-logo/5c29faa5c456.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/6c4a52e7-4b29-4fd2-81d3-e92d7d6fb548.png",
+      "path": "liste-logo/e3acf10941c6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/69520272-a5e8-4d6f-891a-5e5620d92acc.png",
+      "path": "liste-logo/2c26a44a6af6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/2f95410c-911a-4302-8642-e89bef9e1444.png",
+      "path": "liste-logo/80bd54ad9cf6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4b16fb97-2004-4d4d-8a8c-c14cac7b20b5.png",
+      "path": "liste-logo/826769e8f7ff.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1b8ee9da-0f0d-4db9-a47f-6321ec0572b5.png",
+      "path": "liste-logo/b0484f19492d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7b433dd9-3f59-4f33-86b6-e607b483cd49.png",
+      "path": "liste-logo/665c65d60691.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7ae1e547-7b59-476c-bbf2-b5dda94f497b.png",
+      "path": "liste-logo/5987ec26d684.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c1490368-79ac-4b0d-bb8f-1cc2cd49b94e.png",
+      "path": "liste-logo/db330ef02d14.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/bae1268c-2f08-4a42-b1dc-a64344d218e4.png",
+      "path": "liste-logo/c436f066fd30.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/43cf0a20-3e95-4579-ba35-5010f6be0717.png",
+      "path": "liste-logo/acf17aea9d2f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/674086aa-7b8f-4b82-b4da-3ef8561b33b6.png",
+      "path": "liste-logo/fcf86c3b680c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/cdbba9b3-cde5-43d3-b2c6-9baba35ca94a.png",
+      "path": "liste-logo/58f6e58ce6e7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/445053b3-3a56-47ce-a312-022c10d3df71.png",
+      "path": "liste-logo/051a3a0a3cbe.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/23960102-afb9-45c1-a5f7-b80c0e5c70e5.png",
+      "path": "liste-logo/d6caaaf6648c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f21a053a-16a3-417f-baec-26688752bfa2.png",
+      "path": "liste-logo/f846a55346e0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0d2381f6-d09e-4054-9845-2ff72539ecad.png",
+      "path": "liste-logo/4903ebfc0539.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e741412a-be8c-43f2-b33b-283610d33027.png",
+      "path": "liste-logo/3284807e2647.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/fe9999b1-c177-48a5-8d91-f947ed194df2.png",
+      "path": "liste-logo/afa8f7722e72.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9ab542f9-51b8-4393-8de7-f53942d9ee20.png",
+      "path": "liste-logo/3784e72497b7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/744e5292-f1f6-43fb-94d1-0389c6e36abd.png",
+      "path": "liste-logo/8524748d858e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3bba3430-fddc-4660-be57-2d84318c6d7c.png",
+      "path": "liste-logo/bc75e689b6cf.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3a7dc46d-f3ef-42cd-8a41-c1cc5630f62f.png",
+      "path": "liste-logo/b0229eb80e1f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/32c8a811-be84-4bdb-b10e-76bb7b0122cf.png",
+      "path": "liste-logo/e65225218924.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/fb00cc4a-821d-4e9e-af31-3c11883f63fc.png",
+      "path": "liste-logo/a8bffe9c66b0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/987c568a-176b-4734-8639-e7013bb903e6.png",
+      "path": "liste-logo/2d1911af270b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/978b5709-bce7-4501-9722-9db1292a894e.png",
+      "path": "liste-logo/beafc2eb2dea.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/33774b65-981e-43fb-a49d-689329bba59d.png",
+      "path": "liste-logo/4a581370ad1a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3fbf44de-31bb-4aad-aa86-1e48f3d80855.png",
+      "path": "liste-logo/e3a0aeb676ba.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e997a98d-c5a5-47f0-8882-ab2d9ed3fc80.png",
+      "path": "liste-logo/287a647df661.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0845ecbe-6750-499f-a18c-7d2013f2c1e7.png",
+      "path": "liste-logo/4b38f8ee7273.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9bfc415f-86c6-4363-b08c-ef710a9d0f65.png",
+      "path": "liste-logo/3799b1698860.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/921b0acf-b7e6-425a-977f-94ecdf4ae755.png",
+      "path": "liste-logo/1e977dcb7700.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b45d3fb8-b3ee-484f-9c1a-a5304e0fa13f.png",
+      "path": "liste-logo/f219829c1a5a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e6ed029b-4bdb-4e95-acde-24e0b88c83b8.png",
+      "path": "liste-logo/82aed40cf6ef.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/bfd39867-2330-4a11-9a0c-b30ff06cee12.png",
+      "path": "liste-logo/6c0df95136ac.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e857e4f4-f4ce-4566-9b42-ef59637064d0.png",
+      "path": "liste-logo/80f9ff4b4181.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f87fd098-7e38-4fe5-82db-0bd892ace7ba.png",
+      "path": "liste-logo/fe5dc508c5f9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8e6f44ce-3d5e-4762-9287-f80d41399dfa.png",
+      "path": "liste-logo/ece2196822d6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/bccb82d4-2df3-41b7-84dc-ef08faf7f83e.png",
+      "path": "liste-logo/c609dc9d6b8b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/01f1158f-7cfa-4e73-9484-4709e98ab0ed.png",
+      "path": "liste-logo/7d6c190bac49.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/18c488e6-60e3-410c-bf54-034760ab5b0c.png",
+      "path": "liste-logo/67238d9b4a68.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/013e22ca-e746-428b-88f5-2b21d5a330d2.png",
+      "path": "liste-logo/1c5dc74aaee6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/09ddfa2e-3d41-40fc-a102-530ef29f8019.png",
+      "path": "liste-logo/21db5e909bd1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e92f28a7-6a1c-4e5b-97f9-a719c66e4f0b.png",
+      "path": "liste-logo/326f00be3bfb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/a6fd6a98-66b1-487b-ae71-43cebc42c0d6.png",
+      "path": "liste-logo/4f051b06eff7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3492b601-ffe3-4bac-bdb5-4ca090a9d207.png",
+      "path": "liste-logo/d04ad2aa9615.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3a21132d-4f0e-4f1e-8735-e53647587e83.png",
+      "path": "liste-logo/b2283be1e791.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d0535f53-9efe-4747-aebe-fe66044ae991.png",
+      "path": "liste-logo/6eb297024bf0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e6214b51-9e82-4ab5-8ad3-56b788b9847f.png",
+      "path": "liste-logo/dfe042ae6529.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f5dad25f-2aa5-4db5-be96-b345afe8d4c8.png",
+      "path": "liste-logo/b3b0ba2929fd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4f97ac3c-e8d6-4a18-8a90-92893e42da5b.png",
+      "path": "liste-logo/659d249db70a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5bc3b11d-50ba-49ed-b983-829cb5b4103f.png",
+      "path": "liste-logo/706843cedc54.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/eef8a593-a221-440f-af73-8f0de58c1705.png",
+      "path": "liste-logo/3a26c5c016b1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ec96067a-203f-4f34-a679-82294fe5a36a.png",
+      "path": "liste-logo/05a1cb8f011f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3d77f4d1-5300-47b4-89c7-58f64fee05bd.png",
+      "path": "liste-logo/a86e965b2cf9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d2036edb-e37e-41c0-94ac-696ac92dcdf6.png",
+      "path": "liste-logo/7613a17d5758.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/2de47c04-a647-482d-87cb-b19ec577bf15.png",
+      "path": "liste-logo/0d4902267063.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/53dc7093-c5b8-434b-9d8a-6f71855dc5b4.png",
+      "path": "liste-logo/a2242be8fff7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c5f7c0e9-be1c-4289-80d1-55ab9bc1c46f.png",
+      "path": "liste-logo/2f4b404c91c1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1ba7f34e-b950-4e49-a6ad-87bc39d45a76.png",
+      "path": "liste-logo/12b34a2792a2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/12bcd1d9-9978-4b15-8caf-c3a36485557b.png",
+      "path": "liste-logo/7fad0174ccf6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4a1c798d-6f17-49cb-8d61-bcaddd000138.png",
+      "path": "liste-logo/d850090a3115.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/14cf995c-5422-4fca-a8f6-fbb129626db6.png",
+      "path": "liste-logo/8316e663f993.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d9304a3b-0e27-4c57-b6b0-662d2fd8b3a2.png",
+      "path": "liste-logo/e9c654a49df5.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/57f93e09-65f4-4a58-9063-a1809ae51843.png",
+      "path": "liste-logo/8282fb684f36.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/945074f3-d029-4895-8245-ff1f03f65b4d.png",
+      "path": "liste-logo/dc354e0c9f86.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4250cfa3-9fc3-4ac6-89b9-673e9228ef92.png",
+      "path": "liste-logo/423587054c95.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f865a01a-df8d-4703-a5a1-d2ecd0c35ca7.png",
+      "path": "liste-logo/b6ed1674a97a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d14db511-4ce4-4ac8-8dbe-7c21ff86ca44.png",
+      "path": "liste-logo/dae2d571d5ba.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/64704a29-2fe5-4a17-853a-f2dc11ab0238.png",
+      "path": "liste-logo/9fa82780343d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7ea773c9-63bb-4a15-b6a2-85d57ad6a096.png",
+      "path": "liste-logo/57b270a4ddde.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/6f55aa40-5d5f-4d3a-b2e7-a3a92c4101b0.png",
+      "path": "liste-logo/f77b23ce54b4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ecf3f0ba-00e0-4a78-b779-4dd7acc5f4f3.png",
+      "path": "liste-logo/eb213aff3e83.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/62ab4e54-81c6-4f26-9f41-382d4fa486e4.png",
+      "path": "liste-logo/f63535addf95.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3aee87b0-0e14-4031-8cea-cd0634e652bc.png",
+      "path": "liste-logo/d397949a6130.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/72ff9fbe-54cf-462d-bc37-040d66a92304.png",
+      "path": "liste-logo/7d947c20b83f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3d11a62f-dc52-4fd4-b816-f06e2b119c10.png",
+      "path": "liste-logo/ea029ab2c4c2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f2c6a86b-559b-4c79-8fa0-1005a4fdee3b.png",
+      "path": "liste-logo/16353f6cdedb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8dec827a-9d37-459a-8093-fd0785186a21.png",
+      "path": "liste-logo/f480a1aa525e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e0291c16-17be-4623-a3a8-e77667d49186.png",
+      "path": "liste-logo/e1cd28bd3611.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ed2ae774-721e-47b8-ac07-23bf79a494d3.png",
+      "path": "liste-logo/9d0e5643c1d0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7a5fe141-ea08-4326-a843-7ad06f7981d4.png",
+      "path": "liste-logo/3aae093df8b8.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dc1e4a68-c6d3-478a-9801-ac807aeda8b5.png",
+      "path": "liste-logo/06217b621864.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e340d68a-576c-4d82-81ec-983fb5941d12.png",
+      "path": "liste-logo/0a63d29c4c5b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f931cdd4-8e9f-4ffc-8f03-3e0f99559d4f.png",
+      "path": "liste-logo/734f441c8482.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0fd41826-8004-4ef8-8b43-15fc67a68a8f.png",
+      "path": "liste-logo/f66fac708393.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8214ebad-32ad-4001-b317-ef7b6ea3edb3.png",
+      "path": "liste-logo/309206e8f9ed.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3cfa36fb-de70-4e25-8b08-d4589989612d.png",
+      "path": "liste-logo/d38313ad86e6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/865e225b-e6e9-4c8c-a1b9-be17f6d70f1b.png",
+      "path": "liste-logo/9bdc7f158cea.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/837d3761-ebed-4250-95bc-40b9aec82396.png",
+      "path": "liste-logo/ee58ae0a3cfa.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/cf0e41c0-5c20-4359-ba12-a4854034d6f6.png",
+      "path": "liste-logo/1273c4546f0e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/aeb96c96-e220-4e0d-b328-bcafc2f886c7.png",
+      "path": "liste-logo/effa54234570.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/21ee60c6-f429-40a3-9d74-ce574831de19.png",
+      "path": "liste-logo/746a303f1d62.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/aec30707-6eb2-40de-941c-a15a75b99dd7.png",
+      "path": "liste-logo/9619739c6ceb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/be5046eb-c978-489d-8290-b3912f5e3185.png",
+      "path": "liste-logo/bbf22fa0cabb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d06d0ec1-b497-42d6-aa58-bfcfa8bec0f0.png",
+      "path": "liste-logo/59f4572cf9b2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d486ddac-efe5-4dde-9c6b-53429b597733.png",
+      "path": "liste-logo/c2218d3e3658.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/99427daa-074a-4389-85fa-8aab992dbfb3.png",
+      "path": "liste-logo/cb5aa78ac686.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3191110d-6ecc-499d-b614-8a3582ccbb7e.png",
+      "path": "liste-logo/90a916718937.png",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "failedDownloadsSample": [
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b3857c25-e816-48b9-8348-a13ee436dba9.png",
+      "path": "liste-logo/ca31a2823e5b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/abea6219-cabb-4af4-8ddb-6b8925ffa62f.png",
+      "path": "liste-logo/d99d2fa85f76.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f96ef417-bec2-401c-b7fe-bdc39eaab8b0.png",
+      "path": "liste-logo/1ef6b6dda8ff.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4ca348c7-1037-4dd6-8ba6-a5d5e4fc53e1.png",
+      "path": "liste-logo/a77c6c560a77.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f7ec78f8-43d2-4117-913a-7f45893d6774.png",
+      "path": "liste-logo/44ad0a636067.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7a738603-0533-4cb2-a3cf-766aedb31b21.png",
+      "path": "liste-logo/9104426aa488.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/98251a7c-ceee-4d00-b15d-b583418e50e6.png",
+      "path": "liste-logo/cf0881efa694.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b3aa542e-ea0a-4440-abd7-9cab98fb9b1a.png",
+      "path": "liste-logo/b7c1f8ea5281.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/6ac77b6a-6e58-49e8-8e76-bc57fdbbd13f.png",
+      "path": "liste-logo/9cf85195c9b2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/086cb48d-e5b6-4b79-94cd-725975dde567.png",
+      "path": "liste-logo/ecfd066e192d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/98474191-bf00-43a0-b189-03f970e4566c.png",
+      "path": "liste-logo/222c795a9c3f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c50e8be6-c873-4573-9f97-7ac4b76ba052.png",
+      "path": "liste-logo/d53a945512ed.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png",
+      "path": "liste-logo/b4942390e41f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d8e81779-a0c6-4202-8f47-5315d34e395c.png",
+      "path": "liste-logo/2dc58f53eca4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f16de70e-9de7-4b41-937f-11a65fb2932d.png",
+      "path": "liste-logo/6fc1399fac41.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/76175b6c-2a79-4fcd-89d5-026c4e76edb1.png",
+      "path": "liste-logo/9ef3898f431f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1af160f1-276e-401f-9ecf-2157e05bf477.png",
+      "path": "liste-logo/083201205742.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9b729d49-2367-415b-a5e4-35c47ffaf59f.png",
+      "path": "liste-logo/b7473a5b28a7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c75d260b-10d6-42c6-b69e-bf04f773cc9b.png",
+      "path": "liste-logo/6bf266822a1b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/058318fb-65bc-4ebd-8d52-add836f53ba9.png",
+      "path": "liste-logo/d566dafc9fcb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/48705266-7426-492a-a091-f2e599ba7a36.png",
+      "path": "liste-logo/33849f50ee64.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3ec303e0-dabd-4b43-b396-e816a7ed7e43.png",
+      "path": "liste-logo/36d2e0e07378.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b9a8635c-848b-49f7-ad7f-0b7fd2efe2eb.png",
+      "path": "liste-logo/9765bc63f4c3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png",
+      "path": "liste-logo/a57402c32b86.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png",
+      "path": "liste-logo/aa81bb4b9736.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/31f75bd0-47b3-4f22-be4f-d11ed0dbabeb.png",
+      "path": "liste-logo/5d7124ce1fa7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png",
+      "path": "liste-logo/e0acb93dd7dd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png",
+      "path": "liste-logo/d81286158723.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5a538084-161e-480f-9ec6-3b1acc1593e4.png",
+      "path": "liste-logo/89e999cc4afd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9d451286-3aa1-44ca-9936-1a16d8550ed7.png",
+      "path": "liste-logo/8a2f53cf4552.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ba21c671-ff84-4bf0-97b5-8b326291d36b.png",
+      "path": "liste-logo/67cabc2b4e5d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/144ddf6c-e2df-4725-a292-3400c3216ad8.png",
+      "path": "liste-logo/a513d5bfc5bf.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e31b4e7f-7a0f-43dc-ab5c-57b2c373de96.png",
+      "path": "liste-logo/69fc2e8f0de7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e25527ce-8f1b-4ff5-a847-db2601a0ea56.png",
+      "path": "liste-logo/5d664c84f962.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png",
+      "path": "liste-logo/5be52bb74e8a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dbf9df04-b521-4d47-a165-776102d7ee93.png",
+      "path": "liste-logo/51da8a794b03.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f24d133d-940f-49b9-9ea1-2ac2d48f5b99.png",
+      "path": "liste-logo/66b2e0d5ccf2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png",
+      "path": "liste-logo/c73e81da9da3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png",
+      "path": "liste-logo/cdd205cd1859.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b50865cd-24e3-4a24-9c10-cf61573b6320.png",
+      "path": "liste-logo/0a2ddc5f17dc.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9c62b6fd-db6c-450b-bbf3-352868d50eba.png",
+      "path": "liste-logo/3c587ec15bf8.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png",
+      "path": "liste-logo/4109bc35649e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/935e306b-8134-4672-80c3-9487b0f021a0.png",
+      "path": "liste-logo/93ddc7f35f6e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png",
+      "path": "liste-logo/682660be327c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png",
+      "path": "liste-logo/bc511c85502a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1e9a70ac-702b-4f1a-b882-1ba795b75aa8.png",
+      "path": "liste-logo/1a16a4ea1e41.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png",
+      "path": "liste-logo/e27a919e0aeb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png",
+      "path": "liste-logo/58c2486c71b4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c49e30f3-5917-452e-93ae-56886a8e8b04.png",
+      "path": "liste-logo/d1fbd1b4e883.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/467af750-433b-4a59-86da-cf3d16014667.png",
+      "path": "liste-logo/f33cde3e3052.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3446fb88-4fb6-4e6f-aa5d-9eed92efbb97.png",
+      "path": "liste-logo/177cd9efe2aa.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/209495ee-35fc-47b8-b442-f9a410110970.png",
+      "path": "liste-logo/ce9e14f60396.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7e78574b-3f13-443d-859a-9948e7bc4381.png",
+      "path": "liste-logo/5d3240f46c72.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/2bb603cc-f72e-484e-8c70-98f82cc7529d.png",
+      "path": "liste-logo/2d545ee5b8e2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b6441709-2184-4419-9203-8efb784857ca.png",
+      "path": "liste-logo/201863fbb576.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/358e2281-a615-4bfb-92e1-1f093756234a.png",
+      "path": "liste-logo/412be0ee5375.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/528ca8db-dba9-4db0-ba1a-949a8aab2eb7.png",
+      "path": "liste-logo/15014ca78811.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/044cbc2d-7166-4871-8c7d-041345310d22.png",
+      "path": "liste-logo/19a77c00bc90.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1dc650d4-0a3f-4f97-bdb2-4cf01cef8e0a.png",
+      "path": "liste-logo/9515ff6dff70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9eea23aa-c93d-4f88-aa68-bbb96473967f.png",
+      "path": "liste-logo/ab8e888b6080.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/58493332-d1cb-4c24-997b-dbfa400937b2.png",
+      "path": "liste-logo/600ea7616367.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dd255f1a-1e71-408e-8ac5-19db39acadea.png",
+      "path": "liste-logo/122da2c3f67c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8cfeaa96-8d4d-4d39-b6bf-9ec665e6a6c6.png",
+      "path": "liste-logo/11ebc83a4b70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/87bee649-ffb8-4917-9487-29b41c896ce9.png",
+      "path": "liste-logo/40292cec4422.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/eaf30d27-3609-4b54-b9fa-089e8d6b6c88.png",
+      "path": "liste-logo/17ec210aaca2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/fe34c8f3-f6cc-41ea-9a84-c61b44272f36.png",
+      "path": "liste-logo/2832fd9ae470.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ef919dd3-2189-445e-aa3c-3f5422309528.png",
+      "path": "liste-logo/f967c5a4d9fe.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/be8bda8e-17da-40b5-9d7e-1591b6cf06e9.png",
+      "path": "liste-logo/f15cea86faa8.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/447891c4-97c1-4692-99be-7adc74dbfe58.png",
+      "path": "liste-logo/5c321402d217.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c7b43467-b3b4-4f56-b0c8-e8442de03807.png",
+      "path": "liste-logo/242bce0c64b1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/05f87412-5cd3-41ee-9874-66e41121c6eb.png",
+      "path": "liste-logo/4a0a8cd5a71c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/22f97725-d582-42bb-a50a-e2437125558a.png",
+      "path": "liste-logo/e089a7555929.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png",
+      "path": "liste-logo/339f25710fb1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4d5dbf1a-4524-4d11-8904-0c5c9fc4b7aa.png",
+      "path": "liste-logo/e20c83cfc5e3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0a4992bf-7c3d-41ae-aa0d-e44ecb1ac0cb.png",
+      "path": "liste-logo/227b932772d9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/592f509e-2e57-445f-833c-e3388ae88120.png",
+      "path": "liste-logo/1a07111578d2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dd4da8fc-609f-4d05-8adb-9bba0f584738.png",
+      "path": "liste-logo/3acd910e2749.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ed12053a-f7cb-42f8-a9bb-26e1e992ea99.png",
+      "path": "liste-logo/544fe2c5339b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png",
+      "path": "liste-logo/27c256a71cb4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/98687328-412c-452d-a7ac-71fbbc329b5e.png",
+      "path": "liste-logo/f67514b6f57b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7be5925e-181a-4c4c-96c0-9cd4ec14caea.png",
+      "path": "liste-logo/8373520df99f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png",
+      "path": "liste-logo/7495ed74445a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png",
+      "path": "liste-logo/3c65fbfd2682.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0bbe8ea1-7fa3-402d-8e96-1836077458d7.png",
+      "path": "liste-logo/733064af2646.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3ad1c386-1f55-4d2a-b94e-a9c17dd01912.png",
+      "path": "liste-logo/6a0d98920678.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4f326473-7ee6-40a1-b848-4512dc28b5d6.png",
+      "path": "liste-logo/7c1d6daa7b70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0ac415bb-a1c6-494b-81d4-f92f3161c94f.png",
+      "path": "liste-logo/8df27e1a9e70.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/feb106f8-f8a2-41bf-bd0b-9b79eea6e49c.png",
+      "path": "liste-logo/e632a788c8db.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b74b51a2-0659-45a5-8c82-2f3ed680eca4.png",
+      "path": "liste-logo/547ba9d32ebd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b901ba7e-2e39-4d70-996e-7df966779a05.png",
+      "path": "liste-logo/276b58cbcf2d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b0c4eabe-d127-41e6-abc7-5180bb7000df.png",
+      "path": "liste-logo/8cc20f0b5cf3.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/a16de706-98e3-4188-8130-e4eee7c616aa.png",
+      "path": "liste-logo/871d8666ae53.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5faee5ba-3a15-4b59-960e-ea10d983273b.png",
+      "path": "liste-logo/bba01882d2c5.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7b9d9a59-51ac-4988-b52a-2c23c0b35cff.png",
+      "path": "liste-logo/652f38f0f105.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/",
+      "path": "liste-logo/00b26cede799.jpg",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/57456c5a-8598-48bc-b003-97a98cfb62d9.png",
+      "path": "liste-logo/503e2b7d0cb9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f9b17518-eb05-4276-98b9-f1267b40c923.png",
+      "path": "liste-logo/d892765a5a4f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4920ca5c-2ac3-4cbb-aea8-4410969b0d6f.png",
+      "path": "liste-logo/73447a69cee7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dfa107f7-5236-46d9-a3c7-2f75ef72f103.png",
+      "path": "liste-logo/6890d3387ded.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ae341ef8-cb12-4f0d-9141-f51697cde227.png",
+      "path": "liste-logo/a8e4f9d6de30.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0d799f92-d997-4a04-8a3b-3fbea0a6b3aa.png",
+      "path": "liste-logo/5c29faa5c456.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/6c4a52e7-4b29-4fd2-81d3-e92d7d6fb548.png",
+      "path": "liste-logo/e3acf10941c6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/69520272-a5e8-4d6f-891a-5e5620d92acc.png",
+      "path": "liste-logo/2c26a44a6af6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/2f95410c-911a-4302-8642-e89bef9e1444.png",
+      "path": "liste-logo/80bd54ad9cf6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4b16fb97-2004-4d4d-8a8c-c14cac7b20b5.png",
+      "path": "liste-logo/826769e8f7ff.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1b8ee9da-0f0d-4db9-a47f-6321ec0572b5.png",
+      "path": "liste-logo/b0484f19492d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7b433dd9-3f59-4f33-86b6-e607b483cd49.png",
+      "path": "liste-logo/665c65d60691.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7ae1e547-7b59-476c-bbf2-b5dda94f497b.png",
+      "path": "liste-logo/5987ec26d684.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c1490368-79ac-4b0d-bb8f-1cc2cd49b94e.png",
+      "path": "liste-logo/db330ef02d14.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/bae1268c-2f08-4a42-b1dc-a64344d218e4.png",
+      "path": "liste-logo/c436f066fd30.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/43cf0a20-3e95-4579-ba35-5010f6be0717.png",
+      "path": "liste-logo/acf17aea9d2f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/674086aa-7b8f-4b82-b4da-3ef8561b33b6.png",
+      "path": "liste-logo/fcf86c3b680c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/cdbba9b3-cde5-43d3-b2c6-9baba35ca94a.png",
+      "path": "liste-logo/58f6e58ce6e7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/445053b3-3a56-47ce-a312-022c10d3df71.png",
+      "path": "liste-logo/051a3a0a3cbe.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/23960102-afb9-45c1-a5f7-b80c0e5c70e5.png",
+      "path": "liste-logo/d6caaaf6648c.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f21a053a-16a3-417f-baec-26688752bfa2.png",
+      "path": "liste-logo/f846a55346e0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0d2381f6-d09e-4054-9845-2ff72539ecad.png",
+      "path": "liste-logo/4903ebfc0539.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e741412a-be8c-43f2-b33b-283610d33027.png",
+      "path": "liste-logo/3284807e2647.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/fe9999b1-c177-48a5-8d91-f947ed194df2.png",
+      "path": "liste-logo/afa8f7722e72.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9ab542f9-51b8-4393-8de7-f53942d9ee20.png",
+      "path": "liste-logo/3784e72497b7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/744e5292-f1f6-43fb-94d1-0389c6e36abd.png",
+      "path": "liste-logo/8524748d858e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3bba3430-fddc-4660-be57-2d84318c6d7c.png",
+      "path": "liste-logo/bc75e689b6cf.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3a7dc46d-f3ef-42cd-8a41-c1cc5630f62f.png",
+      "path": "liste-logo/b0229eb80e1f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/32c8a811-be84-4bdb-b10e-76bb7b0122cf.png",
+      "path": "liste-logo/e65225218924.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/fb00cc4a-821d-4e9e-af31-3c11883f63fc.png",
+      "path": "liste-logo/a8bffe9c66b0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/987c568a-176b-4734-8639-e7013bb903e6.png",
+      "path": "liste-logo/2d1911af270b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/978b5709-bce7-4501-9722-9db1292a894e.png",
+      "path": "liste-logo/beafc2eb2dea.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/33774b65-981e-43fb-a49d-689329bba59d.png",
+      "path": "liste-logo/4a581370ad1a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3fbf44de-31bb-4aad-aa86-1e48f3d80855.png",
+      "path": "liste-logo/e3a0aeb676ba.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e997a98d-c5a5-47f0-8882-ab2d9ed3fc80.png",
+      "path": "liste-logo/287a647df661.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0845ecbe-6750-499f-a18c-7d2013f2c1e7.png",
+      "path": "liste-logo/4b38f8ee7273.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/9bfc415f-86c6-4363-b08c-ef710a9d0f65.png",
+      "path": "liste-logo/3799b1698860.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/921b0acf-b7e6-425a-977f-94ecdf4ae755.png",
+      "path": "liste-logo/1e977dcb7700.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/b45d3fb8-b3ee-484f-9c1a-a5304e0fa13f.png",
+      "path": "liste-logo/f219829c1a5a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e6ed029b-4bdb-4e95-acde-24e0b88c83b8.png",
+      "path": "liste-logo/82aed40cf6ef.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/bfd39867-2330-4a11-9a0c-b30ff06cee12.png",
+      "path": "liste-logo/6c0df95136ac.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e857e4f4-f4ce-4566-9b42-ef59637064d0.png",
+      "path": "liste-logo/80f9ff4b4181.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f87fd098-7e38-4fe5-82db-0bd892ace7ba.png",
+      "path": "liste-logo/fe5dc508c5f9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8e6f44ce-3d5e-4762-9287-f80d41399dfa.png",
+      "path": "liste-logo/ece2196822d6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/bccb82d4-2df3-41b7-84dc-ef08faf7f83e.png",
+      "path": "liste-logo/c609dc9d6b8b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/01f1158f-7cfa-4e73-9484-4709e98ab0ed.png",
+      "path": "liste-logo/7d6c190bac49.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/18c488e6-60e3-410c-bf54-034760ab5b0c.png",
+      "path": "liste-logo/67238d9b4a68.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/013e22ca-e746-428b-88f5-2b21d5a330d2.png",
+      "path": "liste-logo/1c5dc74aaee6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/09ddfa2e-3d41-40fc-a102-530ef29f8019.png",
+      "path": "liste-logo/21db5e909bd1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e92f28a7-6a1c-4e5b-97f9-a719c66e4f0b.png",
+      "path": "liste-logo/326f00be3bfb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/a6fd6a98-66b1-487b-ae71-43cebc42c0d6.png",
+      "path": "liste-logo/4f051b06eff7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3492b601-ffe3-4bac-bdb5-4ca090a9d207.png",
+      "path": "liste-logo/d04ad2aa9615.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3a21132d-4f0e-4f1e-8735-e53647587e83.png",
+      "path": "liste-logo/b2283be1e791.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d0535f53-9efe-4747-aebe-fe66044ae991.png",
+      "path": "liste-logo/6eb297024bf0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e6214b51-9e82-4ab5-8ad3-56b788b9847f.png",
+      "path": "liste-logo/dfe042ae6529.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f5dad25f-2aa5-4db5-be96-b345afe8d4c8.png",
+      "path": "liste-logo/b3b0ba2929fd.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4f97ac3c-e8d6-4a18-8a90-92893e42da5b.png",
+      "path": "liste-logo/659d249db70a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/5bc3b11d-50ba-49ed-b983-829cb5b4103f.png",
+      "path": "liste-logo/706843cedc54.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/eef8a593-a221-440f-af73-8f0de58c1705.png",
+      "path": "liste-logo/3a26c5c016b1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ec96067a-203f-4f34-a679-82294fe5a36a.png",
+      "path": "liste-logo/05a1cb8f011f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3d77f4d1-5300-47b4-89c7-58f64fee05bd.png",
+      "path": "liste-logo/a86e965b2cf9.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d2036edb-e37e-41c0-94ac-696ac92dcdf6.png",
+      "path": "liste-logo/7613a17d5758.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/2de47c04-a647-482d-87cb-b19ec577bf15.png",
+      "path": "liste-logo/0d4902267063.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/53dc7093-c5b8-434b-9d8a-6f71855dc5b4.png",
+      "path": "liste-logo/a2242be8fff7.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/c5f7c0e9-be1c-4289-80d1-55ab9bc1c46f.png",
+      "path": "liste-logo/2f4b404c91c1.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/1ba7f34e-b950-4e49-a6ad-87bc39d45a76.png",
+      "path": "liste-logo/12b34a2792a2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/12bcd1d9-9978-4b15-8caf-c3a36485557b.png",
+      "path": "liste-logo/7fad0174ccf6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4a1c798d-6f17-49cb-8d61-bcaddd000138.png",
+      "path": "liste-logo/d850090a3115.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/14cf995c-5422-4fca-a8f6-fbb129626db6.png",
+      "path": "liste-logo/8316e663f993.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d9304a3b-0e27-4c57-b6b0-662d2fd8b3a2.png",
+      "path": "liste-logo/e9c654a49df5.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/57f93e09-65f4-4a58-9063-a1809ae51843.png",
+      "path": "liste-logo/8282fb684f36.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/945074f3-d029-4895-8245-ff1f03f65b4d.png",
+      "path": "liste-logo/dc354e0c9f86.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/4250cfa3-9fc3-4ac6-89b9-673e9228ef92.png",
+      "path": "liste-logo/423587054c95.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f865a01a-df8d-4703-a5a1-d2ecd0c35ca7.png",
+      "path": "liste-logo/b6ed1674a97a.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d14db511-4ce4-4ac8-8dbe-7c21ff86ca44.png",
+      "path": "liste-logo/dae2d571d5ba.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/64704a29-2fe5-4a17-853a-f2dc11ab0238.png",
+      "path": "liste-logo/9fa82780343d.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7ea773c9-63bb-4a15-b6a2-85d57ad6a096.png",
+      "path": "liste-logo/57b270a4ddde.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/6f55aa40-5d5f-4d3a-b2e7-a3a92c4101b0.png",
+      "path": "liste-logo/f77b23ce54b4.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ecf3f0ba-00e0-4a78-b779-4dd7acc5f4f3.png",
+      "path": "liste-logo/eb213aff3e83.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/62ab4e54-81c6-4f26-9f41-382d4fa486e4.png",
+      "path": "liste-logo/f63535addf95.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3aee87b0-0e14-4031-8cea-cd0634e652bc.png",
+      "path": "liste-logo/d397949a6130.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/72ff9fbe-54cf-462d-bc37-040d66a92304.png",
+      "path": "liste-logo/7d947c20b83f.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3d11a62f-dc52-4fd4-b816-f06e2b119c10.png",
+      "path": "liste-logo/ea029ab2c4c2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f2c6a86b-559b-4c79-8fa0-1005a4fdee3b.png",
+      "path": "liste-logo/16353f6cdedb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8dec827a-9d37-459a-8093-fd0785186a21.png",
+      "path": "liste-logo/f480a1aa525e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e0291c16-17be-4623-a3a8-e77667d49186.png",
+      "path": "liste-logo/e1cd28bd3611.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/ed2ae774-721e-47b8-ac07-23bf79a494d3.png",
+      "path": "liste-logo/9d0e5643c1d0.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/7a5fe141-ea08-4326-a843-7ad06f7981d4.png",
+      "path": "liste-logo/3aae093df8b8.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/dc1e4a68-c6d3-478a-9801-ac807aeda8b5.png",
+      "path": "liste-logo/06217b621864.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/e340d68a-576c-4d82-81ec-983fb5941d12.png",
+      "path": "liste-logo/0a63d29c4c5b.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/f931cdd4-8e9f-4ffc-8f03-3e0f99559d4f.png",
+      "path": "liste-logo/734f441c8482.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/0fd41826-8004-4ef8-8b43-15fc67a68a8f.png",
+      "path": "liste-logo/f66fac708393.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/8214ebad-32ad-4001-b317-ef7b6ea3edb3.png",
+      "path": "liste-logo/309206e8f9ed.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3cfa36fb-de70-4e25-8b08-d4589989612d.png",
+      "path": "liste-logo/d38313ad86e6.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/865e225b-e6e9-4c8c-a1b9-be17f6d70f1b.png",
+      "path": "liste-logo/9bdc7f158cea.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/837d3761-ebed-4250-95bc-40b9aec82396.png",
+      "path": "liste-logo/ee58ae0a3cfa.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/cf0e41c0-5c20-4359-ba12-a4854034d6f6.png",
+      "path": "liste-logo/1273c4546f0e.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/aeb96c96-e220-4e0d-b328-bcafc2f886c7.png",
+      "path": "liste-logo/effa54234570.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/21ee60c6-f429-40a3-9d74-ce574831de19.png",
+      "path": "liste-logo/746a303f1d62.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/aec30707-6eb2-40de-941c-a15a75b99dd7.png",
+      "path": "liste-logo/9619739c6ceb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/be5046eb-c978-489d-8290-b3912f5e3185.png",
+      "path": "liste-logo/bbf22fa0cabb.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d06d0ec1-b497-42d6-aa58-bfcfa8bec0f0.png",
+      "path": "liste-logo/59f4572cf9b2.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/d486ddac-efe5-4dde-9c6b-53429b597733.png",
+      "path": "liste-logo/c2218d3e3658.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/99427daa-074a-4389-85fa-8aab992dbfb3.png",
+      "path": "liste-logo/cb5aa78ac686.png",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ok": false,
+      "url": "https://assets.uzunmuhalefet.com/logos/3191110d-6ecc-499d-b614-8a3582ccbb7e.png",
+      "path": "liste-logo/90a916718937.png",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
 }

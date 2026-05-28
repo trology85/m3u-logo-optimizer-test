@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/trology85/details-multi-epg/refs/heads/main/epg/master_epg.xml.gz" x-logo-source="liste-logolar.json"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/trology85/details-multi-epg/refs/heads/main/epg/master_epg.xml.gz" x-logo-source="https://raw.githubusercontent.com/trology85/m3u-logo-optimizer-test/refs/heads/main/liste-logolar.json"
 #EXTINF:-1 tvg-id="TRT.1" tvg-name="TRT1" logo-id="TRT 1" group-title="Ulusal",TRT1
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 #EXTINF:-1 tvg-id="Kanal.D" tvg-name="KANAL D" logo-id="KANAL D" group-title="Ulusal",KANAL D
