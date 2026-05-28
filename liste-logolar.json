@@ -1,8 +1,8 @@
 {
   "schema": "logo-manager-list-logo-source-v1",
   "sourceM3U": "20260528042945_SC_PLAYER_SC_PLAYER_QWERT_-_Kopyaaaaaa_m3u_20260502__20260514_055241.m3u",
-  "createdAt": "2026-05-28T04:30:41.045648Z",
-  "updatedAt": "2026-05-28T04:30:54.655738Z",
+  "createdAt": "2026-05-28T04:32:24.715422Z",
+  "updatedAt": "2026-05-28T04:32:44.868816Z",
   "xLogoSource": "https://raw.githubusercontent.com/trology85/m3u-logo-optimizer-test/refs/heads/main/liste-logolar.json",
   "logoFolder": "liste-logo",
   "outputM3U": "output/optimized.m3u",
@@ -19,10 +19,10 @@
     "downloaded": 17,
     "downloadFailed": 275,
     "skippedDownload": 0,
-    "startedAt": "2026-05-28T04:30:41.045648Z",
+    "startedAt": "2026-05-28T04:32:24.715422Z",
     "outputBytes": 71358,
     "savedBytesInM3U": 20823,
-    "finishedAt": "2026-05-28T04:30:54.655738Z"
+    "finishedAt": "2026-05-28T04:32:44.868816Z"
   },
   "items": {
     "1TVTR": {
