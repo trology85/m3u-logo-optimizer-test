@@ -174,8 +174,7 @@ async function uploadFileAndRun() {
   const packMsg = packed.compressed
     ? `GZIP hazır: ${(packed.originalSize/1024/1024).toFixed(2)} MB → ${(packed.gzSize/1024/1024).toFixed(2)} MB (%${ratio} küçüldü)`
     : `GZIP dosyası seçildi: ${(packed.gzSize/1024/1024).toFixed(2)} MB`;
-  setStatus('uploadStatus', packMsg + '
-Base64 hazırlanıyor...');
+  setStatus('uploadStatus', packMsg + `\nBase64 hazırlanıyor...`);
 
   const content = arrayBufferToBase64(packed.buffer);
   setProgress(55);
@@ -203,7 +202,7 @@ async function dispatchWorkflow(inputPath='') {
 }
 function rawUrl(path) {
   const cfg = getCfg();
-  return `https://raw.githubusercontent.com/${cfg.owner}/${cfg.repo}/${cfg.branch}/${path}`;
+  return `https://raw.githubusercontent.com/${cfg.owner}/${cfg.repo}/refs/heads/${cfg.branch}/${path}`;
 }
 function repoUrl(path='') {
   const cfg = getCfg();
@@ -215,7 +214,7 @@ function renderLinks() {
     <a href="${rawUrl('output/optimized.m3u')}" target="_blank">output/optimized.m3u</a>
     <a href="${rawUrl('liste-logolar.json')}" target="_blank">liste-logolar.json</a>
     <a href="${rawUrl('output/report.json')}" target="_blank">output/report.json</a>
-    <a href="${repoUrl('tree/main/liste-logo')}" target="_blank">liste-logo klasörünü aç</a>
+    <a href="${repoUrl('tree/' + cfg.branch + '/liste-logo')}" target="_blank">liste-logo klasörünü aç</a>
   `;
 }
 async function loadReport() {
